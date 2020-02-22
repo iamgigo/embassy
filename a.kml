@@ -1,0 +1,3730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>臺灣駐外使館</name>
+    <description/>
+    <Style id="icon-1739-0F9D58-labelson">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1739-FBC02D-labelson">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1739-FF5252-labelson">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-labelson">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>大使館</name>
+      <Placemark>
+        <name>4.0</name>
+        <address>駐諾魯共和國大使館 Nauru Local Government Boe 諾魯</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 諾魯共和國<br>館處中文名稱: 駐諾魯共和國大使館<br>館址(外文): Nauru Local Government Boe 諾魯<br>主管: 周進發<br>職稱: 大使<br>主管英文名稱: Chow-Chin Fa<br>EMAIL: nru@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>諾魯共和國</value>
+          </Data>
+          <Data name="館處中文名稱">
+            <value>駐諾魯共和國大使館</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Nauru Local Government Boe 諾魯</value>
+          </Data>
+          <Data name="主管">
+            <value>周進發</value>
+          </Data>
+          <Data name="職稱">
+            <value>大使</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Chow-Chin Fa</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>nru@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>10.0</name>
+        <address>駐帛琉共和國大使館 3F Ben Franklin Building, Koror, Republic of Palau</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 帛琉共和國<br>館處中文名稱: 駐帛琉共和國大使館<br>館址(外文): 3F Ben Franklin Building, Koror, Republic of Palau <br>主管: 周民淦<br>職稱: 大使<br>主管英文名稱: Wallace M.G. CHOW<br>EMAIL: plw@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>帛琉共和國</value>
+          </Data>
+          <Data name="館處中文名稱">
+            <value>駐帛琉共和國大使館</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>3F Ben Franklin Building, Koror, Republic of Palau </value>
+          </Data>
+          <Data name="主管">
+            <value>周民淦</value>
+          </Data>
+          <Data name="職稱">
+            <value>大使</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Wallace M.G. CHOW</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>plw@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>5.0</name>
+        <address>駐吐瓦魯國大使館 吐瓦魯瓦伊阿庫中華民國駐吐瓦魯大使館</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 吐瓦魯國<br>館處中文名稱: 駐吐瓦魯國大使館<br>館址(外文): 吐瓦魯瓦伊阿庫中華民國駐吐瓦魯大使館<br>主管: 蘇仁崇<br>職稱: 大使<br>主管英文名稱: Marc Su<br>EMAIL: tuv@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>吐瓦魯國</value>
+          </Data>
+          <Data name="館處中文名稱">
+            <value>駐吐瓦魯國大使館</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>吐瓦魯瓦伊阿庫中華民國駐吐瓦魯大使館</value>
+          </Data>
+          <Data name="主管">
+            <value>蘇仁崇</value>
+          </Data>
+          <Data name="職稱">
+            <value>大使</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Marc Su</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>tuv@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>13.0</name>
+        <address>駐史瓦帝尼王國大使館 Makhosikhosi Street, Mbabane, Kingdom of Eswatini</address>
+        <description><![CDATA[地區: 非洲地區<br>國家名稱: 史瓦帝尼王國（原「史瓦濟蘭王國」）<br>館處中文名稱: 駐史瓦帝尼王國大使館<br>館址(外文): Makhosikhosi Street, Mbabane, Kingdom of Eswatini<br>主管: 梁洪昇<br>職稱: 大使<br>主管英文名稱: Jeremy H. S. Liang<br>EMAIL: rocszembassy@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>非洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>史瓦帝尼王國（原「史瓦濟蘭王國」）</value>
+          </Data>
+          <Data name="館處中文名稱">
+            <value>駐史瓦帝尼王國大使館</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Makhosikhosi Street, Mbabane, Kingdom of Eswatini</value>
+          </Data>
+          <Data name="主管">
+            <value>梁洪昇</value>
+          </Data>
+          <Data name="職稱">
+            <value>大使</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Jeremy H. S. Liang</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>rocszembassy@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>9.0</name>
+        <address>駐教廷大使館 Via della Conciliazione 4/d, 00193Rome,Italy</address>
+        <description><![CDATA[地區: 歐洲地區<br>國家名稱: 教廷<br>館處中文名稱: 駐教廷大使館<br>館址(外文): Via della Conciliazione 4/d, 00193Rome,Italy<br>主管: 李世明<br>職稱: 大使<br>主管英文名稱: Matthew S.M. LEE<br>EMAIL: vat@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>歐洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>教廷</value>
+          </Data>
+          <Data name="館處中文名稱">
+            <value>駐教廷大使館</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Via della Conciliazione 4/d, 00193Rome,Italy</value>
+          </Data>
+          <Data name="主管">
+            <value>李世明</value>
+          </Data>
+          <Data name="職稱">
+            <value>大使</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Matthew S.M. LEE</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>vat@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>8.0</name>
+        <address>駐貝里斯大使館 No. 1, Taiwan Street, Belize City, Belize</address>
+        <description><![CDATA[地區: 拉丁美洲及加勒比海地區<br>國家名稱: 貝里斯<br>館處中文名稱: 駐貝里斯大使館<br>館址(外文): No. 1, Taiwan Street, Belize City, Belize<br>主管: 陳立國<br>職稱: 大使<br>主管英文名稱: Chen, Li-kuo<br>EMAIL: blz@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>拉丁美洲及加勒比海地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>貝里斯</value>
+          </Data>
+          <Data name="館處中文名稱">
+            <value>駐貝里斯大使館</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>No. 1, Taiwan Street, Belize City, Belize</value>
+          </Data>
+          <Data name="主管">
+            <value>陳立國</value>
+          </Data>
+          <Data name="職稱">
+            <value>大使</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Chen, Li-kuo</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>blz@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>14.0</name>
+        <address>駐瓜地馬拉共和國大使館 4 Avenida A,Guatemala City, Guatemala, Central America</address>
+        <description><![CDATA[地區: 拉丁美洲及加勒比海地區<br>國家名稱: 瓜地馬拉共和國<br>館處中文名稱: 駐瓜地馬拉共和國大使館<br>館址(外文): 4 Avenida A,Guatemala City, Guatemala, Central America<br>主管: 賴建中<br>職稱: 大使<br>主管英文名稱: Lai, John C.C.<br>EMAIL: gtm@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>拉丁美洲及加勒比海地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>瓜地馬拉共和國</value>
+          </Data>
+          <Data name="館處中文名稱">
+            <value>駐瓜地馬拉共和國大使館</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>4 Avenida A,Guatemala City, Guatemala, Central America</value>
+          </Data>
+          <Data name="主管">
+            <value>賴建中</value>
+          </Data>
+          <Data name="職稱">
+            <value>大使</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Lai, John C.C.</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>gtm@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>8.0</name>
+        <address>駐海地共和國大使館 Ambassade de Taiwan, 太子港</address>
+        <description><![CDATA[地區: 拉丁美洲及加勒比海地區<br>國家名稱: 海地共和國<br>館處中文名稱: 駐海地共和國大使館<br>館址(外文): Ambassade de Taiwan, 太子港<br>主管: 胡正浩<br>職稱: 大使<br>主管英文名稱: HU, Cheng-Hao<br>EMAIL: hti@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>拉丁美洲及加勒比海地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>海地共和國</value>
+          </Data>
+          <Data name="館處中文名稱">
+            <value>駐海地共和國大使館</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Ambassade de Taiwan, 太子港</value>
+          </Data>
+          <Data name="主管">
+            <value>胡正浩</value>
+          </Data>
+          <Data name="職稱">
+            <value>大使</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>HU, Cheng-Hao</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>hti@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>14.0</name>
+        <address>駐宏都拉斯共和國大使館 Colonia Palmira, Avenida República de Panamá, Torre Imperial, Piso 6, Tegucigalpa, Honduras</address>
+        <description><![CDATA[地區: 拉丁美洲及加勒比海地區<br>國家名稱: 宏都拉斯共和國<br>館處中文名稱: 駐宏都拉斯共和國大使館<br>館址(外文): Colonia Palmira, Avenida República de Panamá, Torre Imperial, Piso 6, Tegucigalpa, Honduras<br>主管: 邢瀛輝<br>職稱: 大使<br>主管英文名稱: Ingrid Hsing<br>EMAIL: hnd@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>拉丁美洲及加勒比海地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>宏都拉斯共和國</value>
+          </Data>
+          <Data name="館處中文名稱">
+            <value>駐宏都拉斯共和國大使館</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Colonia Palmira, Avenida República de Panamá, Torre Imperial, Piso 6, Tegucigalpa, Honduras</value>
+          </Data>
+          <Data name="主管">
+            <value>邢瀛輝</value>
+          </Data>
+          <Data name="職稱">
+            <value>大使</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Ingrid Hsing</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>hnd@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>12.0</name>
+        <address>駐尼加拉瓜共和國大使館 Planes de Altamira, Lotes 19 y 20, Managua, Nicaragua</address>
+        <description><![CDATA[地區: 拉丁美洲及加勒比海地區<br>國家名稱: 尼加拉瓜共和國<br>館處中文名稱: 駐尼加拉瓜共和國大使館<br>館址(外文): Planes de Altamira, Lotes 19 y 20, Managua, Nicaragua<br>主管: 吳進木<br>職稱: 大使<br>主管英文名稱: Jaime, Chin-Mu Wu<br>EMAIL: nic@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>拉丁美洲及加勒比海地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>尼加拉瓜共和國</value>
+          </Data>
+          <Data name="館處中文名稱">
+            <value>駐尼加拉瓜共和國大使館</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Planes de Altamira, Lotes 19 y 20, Managua, Nicaragua</value>
+          </Data>
+          <Data name="主管">
+            <value>吳進木</value>
+          </Data>
+          <Data name="職稱">
+            <value>大使</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Jaime, Chin-Mu Wu</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>nic@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>22.0</name>
+        <address>駐巴拉圭共和國大使館 Avenida Aviadores del Chaco 3100, Asunción</address>
+        <description><![CDATA[地區: 拉丁美洲及加勒比海地區<br>國家名稱: 巴拉圭共和國<br>館處中文名稱: 駐巴拉圭共和國大使館<br>館址(外文): Avenida Aviadores del Chaco 3100, Asunción<br>主管: 周麟<br>職稱: 大使<br>主管英文名稱: Diego L. Chou<br>EMAIL: pry@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>拉丁美洲及加勒比海地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>巴拉圭共和國</value>
+          </Data>
+          <Data name="館處中文名稱">
+            <value>駐巴拉圭共和國大使館</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Avenida Aviadores del Chaco 3100, Asunción</value>
+          </Data>
+          <Data name="主管">
+            <value>周麟</value>
+          </Data>
+          <Data name="職稱">
+            <value>大使</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Diego L. Chou</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>pry@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>8.0</name>
+        <address><![CDATA[駐聖克里斯多福及尼維斯大使館 Taylor's Range, Basseterre St. Kitts, West Indies]]></address>
+        <description><![CDATA[地區: 拉丁美洲及加勒比海地區<br>國家名稱: 聖克里斯多福及尼維斯<br>館處中文名稱: 駐聖克里斯多福及尼維斯大使館<br>館址(外文): Taylor's Range, Basseterre St. Kitts, West Indies<br>主管: 李志強<br>職稱: 大使<br>主管英文名稱: Tom Chih-chiang LEE<br>EMAIL: kna@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>拉丁美洲及加勒比海地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>聖克里斯多福及尼維斯</value>
+          </Data>
+          <Data name="館處中文名稱">
+            <value>駐聖克里斯多福及尼維斯大使館</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value><![CDATA[Taylor's Range, Basseterre St. Kitts, West Indies]]></value>
+          </Data>
+          <Data name="主管">
+            <value>李志強</value>
+          </Data>
+          <Data name="職稱">
+            <value>大使</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Tom Chih-chiang LEE</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>kna@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>5.0</name>
+        <address>駐聖露西亞大使館 Reduit Beach Avenue, Rodney Bay, Gros Islet, St. Lucia</address>
+        <description><![CDATA[地區: 拉丁美洲及加勒比海地區<br>國家名稱: 聖露西亞<br>館處中文名稱: 駐聖露西亞大使館<br>館址(外文): Reduit Beach Avenue, Rodney Bay, Gros Islet, St. Lucia<br>主管: 沈正宗<br>職稱: 大使<br>主管英文名稱: Douglas C. T. Shen<br>EMAIL: lca@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>拉丁美洲及加勒比海地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>聖露西亞</value>
+          </Data>
+          <Data name="館處中文名稱">
+            <value>駐聖露西亞大使館</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Reduit Beach Avenue, Rodney Bay, Gros Islet, St. Lucia</value>
+          </Data>
+          <Data name="主管">
+            <value>沈正宗</value>
+          </Data>
+          <Data name="職稱">
+            <value>大使</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Douglas C. T. Shen</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>lca@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>6.0</name>
+        <address><![CDATA[駐聖文森國大使館 Murray's Road, Kingstown, St. Vincent and the Grenadines, West Indies]]></address>
+        <description><![CDATA[地區: 拉丁美洲及加勒比海地區<br>國家名稱: 聖文森(及格瑞那丁)<br>館處中文名稱: 駐聖文森國大使館<br>館址(外文): Murray's Road, Kingstown, St. Vincent and the Grenadines, West Indies<br>主管: 何震寰<br>職稱: 大使<br>主管英文名稱: Calvin C.H. Ho<br>EMAIL: vct@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>拉丁美洲及加勒比海地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>聖文森(及格瑞那丁)</value>
+          </Data>
+          <Data name="館處中文名稱">
+            <value>駐聖文森國大使館</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value><![CDATA[Murray's Road, Kingstown, St. Vincent and the Grenadines, West Indies]]></value>
+          </Data>
+          <Data name="主管">
+            <value>何震寰</value>
+          </Data>
+          <Data name="職稱">
+            <value>大使</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Calvin C.H. Ho</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>vct@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>9.0</name>
+        <address>駐馬紹爾群島共和國大使館 馬紹爾群島Rairikku、Majuro Atoll</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 馬紹爾群島共和國<br>館處中文名稱: 駐馬紹爾群島共和國大使館<br>館址(外文): 馬紹爾群島Rairikku、Majuro Atoll<br>主管: 蕭勝中<br>職稱: 大使<br>主管英文名稱: Jeffrey S. C. Hsiao<br>EMAIL: mhl@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>馬紹爾群島共和國</value>
+          </Data>
+          <Data name="館處中文名稱">
+            <value>駐馬紹爾群島共和國大使館</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>馬紹爾群島Rairikku、Majuro Atoll</value>
+          </Data>
+          <Data name="主管">
+            <value>蕭勝中</value>
+          </Data>
+          <Data name="職稱">
+            <value>大使</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Jeffrey S. C. Hsiao</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>mhl@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>代表處</name>
+      <Placemark>
+        <name>駐澳大利亞代表處 (駐澳大利亞台北經濟文化辦事處)</name>
+        <address>駐澳大利亞代表處 (駐澳大利亞台北經濟文化辦事處) 8 /40 Blackall St., Barton ACT 2600;Ground Floor, 53 Blackall St., Barton ACT 2600</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 澳大利亞<br>人數: 26<br>館址(外文): 8 /40 Blackall St., Barton ACT 2600;Ground Floor, 53 Blackall St., Barton ACT 2600<br>主管: 常以立<br>職稱: 代表<br>主管英文名稱: Elliott Y.L. Charng<br>EMAIL: aus@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>澳大利亞</value>
+          </Data>
+          <Data name="人數">
+            <value>26.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>8 /40 Blackall St., Barton ACT 2600;Ground Floor, 53 Blackall St., Barton ACT 2600</value>
+          </Data>
+          <Data name="主管">
+            <value>常以立</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Elliott Y.L. Charng</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>aus@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐汶萊代表處(駐汶萊臺北經濟文化辦事處)</name>
+        <address>駐汶萊代表處(駐汶萊臺北經濟文化辦事處) No. 3, Lot 57775, Simpang 120, Jalan Sungai Akar, Bandar Seri Begawan, BC3915, Brunei Darussalam</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 汶萊和平之國<br>人數: 4<br>館址(外文): No. 3, Lot 57775, Simpang 120, Jalan Sungai Akar, Bandar Seri Begawan, BC3915, Brunei Darussalam<br>主管: 林維揚<br>職稱: 代表<br>主管英文名稱: William W. Lin<br>EMAIL: brn@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>汶萊和平之國</value>
+          </Data>
+          <Data name="人數">
+            <value>4.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>No. 3, Lot 57775, Simpang 120, Jalan Sungai Akar, Bandar Seri Begawan, BC3915, Brunei Darussalam</value>
+          </Data>
+          <Data name="主管">
+            <value>林維揚</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>William W. Lin</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>brn@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐斐濟代表處 (中華民國駐斐濟商務代表團)</name>
+        <address>駐斐濟代表處 (中華民國駐斐濟商務代表團) Pacific House, Butt Street, Suva, Republic of Fiji</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 斐濟共和國<br>人數: 5<br>館址(外文): Pacific House, Butt Street, Suva, Republic of Fiji<br>主管: 黎倩儀<br>職稱: 代表<br>主管英文名稱: Chien-Yi Lee<br>EMAIL: fji@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>斐濟共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>5.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Pacific House, Butt Street, Suva, Republic of Fiji</value>
+          </Data>
+          <Data name="主管">
+            <value>黎倩儀</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Chien-Yi Lee</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>fji@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐印度代表處 (駐印度台北經濟文化中心)</name>
+        <address>駐印度代表處 (駐印度台北經濟文化中心) No. 34, Paschimi Marg, Vasant Vihar, New Delhi-110057, India</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 印度共和國<br>人數: 24<br>館址(外文): No. 34, Paschimi Marg, Vasant Vihar, New Delhi-110057, India<br>主管: 田中光<br>職稱: 代表<br>主管英文名稱: Chung- Kwang Tien<br>EMAIL: ind@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>印度共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>24.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>No. 34, Paschimi Marg, Vasant Vihar, New Delhi-110057, India</value>
+          </Data>
+          <Data name="主管">
+            <value>田中光</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Chung- Kwang Tien</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>ind@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐印尼代表處(駐印尼臺北經濟貿易代表處) </name>
+        <address>駐印尼代表處(駐印尼臺北經濟貿易代表處)  17th Floor, Gedung Artha Graha, Jl. Jend. Sudirman Kav. 52-53, Jakarta, 12190, Indonesia</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 印度尼西亞共和國<br>人數: 61<br>館址(外文): 17th Floor, Gedung Artha Graha, Jl. Jend. Sudirman Kav. 52-53, Jakarta, 12190, Indonesia<br>主管: 陳忠<br>職稱: 代表<br>主管英文名稱: John C. Chen<br>EMAIL: idn@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>印度尼西亞共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>61.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>17th Floor, Gedung Artha Graha, Jl. Jend. Sudirman Kav. 52-53, Jakarta, 12190, Indonesia</value>
+          </Data>
+          <Data name="主管">
+            <value>陳忠</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>John C. Chen</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>idn@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐日本代表處 (台北駐日經濟文化代表處)</name>
+        <address>駐日本代表處 (台北駐日經濟文化代表處) 東京都港區白金台5-20-2</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 日本<br>人數: 102<br>館址(外文): 東京都港區白金台5-20-2<br>主管: 謝長廷<br>職稱: 代表<br>主管英文名稱: Hsieh Chang-ting<br>EMAIL: vipass@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>日本</value>
+          </Data>
+          <Data name="人數">
+            <value>102.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>東京都港區白金台5-20-2</value>
+          </Data>
+          <Data name="主管">
+            <value>謝長廷</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Hsieh Chang-ting</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>vipass@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐馬來西亞代表處 (駐馬來西亞台北經濟文化辦事處)</name>
+        <address>駐馬來西亞代表處 (駐馬來西亞台北經濟文化辦事處) Level 7, Menara Yayasan Tun Razak, 200, Jalan Bukit Bintang 55100 Kuala Lumpur,Malaysia</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 馬來西亞<br>人數: 34<br>館址(外文): Level 7, Menara Yayasan Tun Razak, 200, Jalan Bukit Bintang 55100 Kuala Lumpur,Malaysia<br>主管: 洪慧珠<br>職稱: 代表<br>主管英文名稱: Anne Hung<br>EMAIL: mys@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>馬來西亞</value>
+          </Data>
+          <Data name="人數">
+            <value>34.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Level 7, Menara Yayasan Tun Razak, 200, Jalan Bukit Bintang 55100 Kuala Lumpur,Malaysia</value>
+          </Data>
+          <Data name="主管">
+            <value>洪慧珠</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Anne Hung</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>mys@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐緬甸代表處 (駐緬甸臺北經濟文化辦事處)</name>
+        <address>駐緬甸代表處 (駐緬甸臺北經濟文化辦事處) No. 97/101A Dhammazedi Road, Kamayut Tounship, Yangon, Myanmar</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 緬甸聯邦共和國<br>人數: 11<br>館址(外文): No. 97/101A Dhammazedi Road, Kamayut Tounship, Yangon, Myanmar<br>主管: 張俊福<br>職稱: 代表<br>主管英文名稱: Chun-Fu Chang<br>EMAIL: mmr@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>緬甸聯邦共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>11.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>No. 97/101A Dhammazedi Road, Kamayut Tounship, Yangon, Myanmar</value>
+          </Data>
+          <Data name="主管">
+            <value>張俊福</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Chun-Fu Chang</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>mmr@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐紐西蘭代表處 (駐紐西蘭台北經濟文化辦事處)</name>
+        <address>駐紐西蘭代表處 (駐紐西蘭台北經濟文化辦事處) Level 23, 100 Willis Street, Majestic Centre, Wellington, New Zealand</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 紐西蘭<br>人數: 12<br>館址(外文): Level 23, 100 Willis Street, Majestic Centre, Wellington, New Zealand<br>主管: 陳克明<br>職稱: 代表<br>主管英文名稱: Bill Chen<br>EMAIL: nzl@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>紐西蘭</value>
+          </Data>
+          <Data name="人數">
+            <value>12.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Level 23, 100 Willis Street, Majestic Centre, Wellington, New Zealand</value>
+          </Data>
+          <Data name="主管">
+            <value>陳克明</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Bill Chen</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>nzl@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐巴布亞紐幾內亞代表處(駐巴布亞紐幾內亞臺北經濟文化辦事處)</name>
+        <address>駐巴布亞紐幾內亞代表處(駐巴布亞紐幾內亞臺北經濟文化辦事處) Deloitte Tower, Douglas Street, Port Moresby, Papua New Guinea</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 巴布亞紐幾內亞獨立國<br>人數: 4<br>館址(外文): Deloitte Tower, Douglas Street, Port Moresby, Papua New Guinea<br>主管: 胡琪斌<br>職稱: 代表<br>主管英文名稱: Kenny C.P. Hu<br>EMAIL: png@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>巴布亞紐幾內亞獨立國</value>
+          </Data>
+          <Data name="人數">
+            <value>4.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Deloitte Tower, Douglas Street, Port Moresby, Papua New Guinea</value>
+          </Data>
+          <Data name="主管">
+            <value>胡琪斌</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Kenny C.P. Hu</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>png@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐菲律賓代表處 (駐菲律賓臺北經濟文化辦事處)</name>
+        <address>駐菲律賓代表處 (駐菲律賓臺北經濟文化辦事處) 41F, Tower 1, RCBC Plaza, 6819 Ayala Avenue, Makati City 1200, Metro Manila, Philippines</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 菲律賓共和國<br>人數: 52<br>館址(外文): 41F, Tower 1, RCBC Plaza, 6819 Ayala Avenue, Makati City 1200, Metro Manila, Philippines<br>主管: 徐佩勇<br>職稱: 代表<br>主管英文名稱: Michael Pei-yung Hsu<br>EMAIL: phl@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>菲律賓共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>52.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>41F, Tower 1, RCBC Plaza, 6819 Ayala Avenue, Makati City 1200, Metro Manila, Philippines</value>
+          </Data>
+          <Data name="主管">
+            <value>徐佩勇</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Michael Pei-yung Hsu</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>phl@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐韓國代表處(駐韓國台北代表部)</name>
+        <address>駐韓國代表處(駐韓國台北代表部) 南韓 Seoul, Jongno-gu, Sejongno, Sejong-daero, 149 광화문빌딩</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 大韓民國(韓國)<br>人數: 23<br>館址(外文): 南韓 Seoul, Jongno-gu, Sejongno, Sejong-daero, 149 광화문빌딩<br>主管: 唐殿文<br>職稱: 代表<br>主管英文名稱: Diann-wen Tang<br>EMAIL: kor@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>大韓民國(韓國)</value>
+          </Data>
+          <Data name="人數">
+            <value>23.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>南韓 Seoul, Jongno-gu, Sejongno, Sejong-daero, 149 광화문빌딩</value>
+          </Data>
+          <Data name="主管">
+            <value>唐殿文</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Diann-wen Tang</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>kor@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐新加坡代表處(駐新加坡台北代表處)</name>
+        <address>駐新加坡代表處(駐新加坡台北代表處) 460 Alexandra Road #23-00 PSA Building, Singapore 119963</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 新加坡共和國<br>人數: 18<br>館址(外文): 460 Alexandra Road #23-00 PSA Building, Singapore 119963<br>主管: 梁國新<br>職稱: 代表<br>主管英文名稱: Liang, Kuo-Hsin<br>EMAIL: sgp@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>新加坡共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>18.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>460 Alexandra Road #23-00 PSA Building, Singapore 119963</value>
+          </Data>
+          <Data name="主管">
+            <value>梁國新</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Liang, Kuo-Hsin</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>sgp@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐泰國代表處 (駐泰國台北經濟文化辦事處)</name>
+        <address>駐泰國代表處 (駐泰國台北經濟文化辦事處) 20th Fl., Empire Tower, 1 South Sathorn Rd., Bangkok, 10120 Thailand</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 泰王國<br>人數: 30<br>館址(外文): 20th Fl., Empire Tower, 1 South Sathorn Rd., Bangkok, 10120 Thailand<br>主管: 童振源<br>職稱: 代表<br>主管英文名稱: Tung, Chen-Yuan<br>EMAIL: tha@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>泰王國</value>
+          </Data>
+          <Data name="人數">
+            <value>30.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>20th Fl., Empire Tower, 1 South Sathorn Rd., Bangkok, 10120 Thailand</value>
+          </Data>
+          <Data name="主管">
+            <value>童振源</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Tung, Chen-Yuan</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>tha@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐越南代表處 (駐越南台北經濟文化辦事處)</name>
+        <address>駐越南代表處 (駐越南台北經濟文化辦事處) 20A Floor, PVI Tower, No.1, Pham Van Bach Road, Yen Hoa Ward, Cau Giay District, Hanoi, Vietnam</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 越南社會主義共和國<br>人數: 23<br>館址(外文): 20A Floor, PVI Tower, No.1, Pham Van Bach Road, Yen Hoa Ward, Cau Giay District, Hanoi, Vietnam<br>主管: 石瑞琦<br>職稱: 代表<br>主管英文名稱: Richard R. C. Shih<br>EMAIL: vnm@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>越南社會主義共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>23.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>20A Floor, PVI Tower, No.1, Pham Van Bach Road, Yen Hoa Ward, Cau Giay District, Hanoi, Vietnam</value>
+          </Data>
+          <Data name="主管">
+            <value>石瑞琦</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Richard R. C. Shih</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>vnm@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐巴林代表處 (駐巴林臺北貿易辦事處)</name>
+        <address>駐巴林代表處 (駐巴林臺北貿易辦事處) Trust Tower, Building 125, Road 1702, Block 317, Diplomatic Area, Manama, Kingdom of Bahrain</address>
+        <description><![CDATA[地區: 亞西地區<br>國家名稱: 巴林王國<br>人數: 4<br>館址(外文): Trust Tower, Building 125, Road 1702, Block 317, Diplomatic Area, Manama, Kingdom of Bahrain<br>主管: 孫習忍<br>職稱: 代表<br>主管英文名稱: Sun Shyi-Ren<br>EMAIL: bhr@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞西地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>巴林王國</value>
+          </Data>
+          <Data name="人數">
+            <value>4.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Trust Tower, Building 125, Road 1702, Block 317, Diplomatic Area, Manama, Kingdom of Bahrain</value>
+          </Data>
+          <Data name="主管">
+            <value>孫習忍</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Sun Shyi-Ren</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>bhr@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐以色列代表處 (駐台拉維夫台北經濟文化辦事處)</name>
+        <address>駐以色列代表處 (駐台拉維夫台北經濟文化辦事處) 21st FL. Round Building Azrieli Center, 132 Menachem Begin Road, Tel Aviv Israel 67021</address>
+        <description><![CDATA[地區: 亞西地區<br>國家名稱: 以色列<br>人數: 12<br>館址(外文): 21st FL. Round Building Azrieli Center, 132 Menachem Begin Road, Tel Aviv Israel 67021<br>主管: 張國葆<br>職稱: 代表<br>主管英文名稱: Paul Kuo-Boug Chang<br>EMAIL: isr@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞西地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>以色列</value>
+          </Data>
+          <Data name="人數">
+            <value>12.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>21st FL. Round Building Azrieli Center, 132 Menachem Begin Road, Tel Aviv Israel 67021</value>
+          </Data>
+          <Data name="主管">
+            <value>張國葆</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Paul Kuo-Boug Chang</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>isr@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐約旦代表處 (駐約旦臺北經濟文化辦事處)</name>
+        <address>駐約旦代表處 (駐約旦臺北經濟文化辦事處) 18, Iritiria Street,Um Uthaina, Amman, Jordan</address>
+        <description><![CDATA[地區: 亞西地區<br>國家名稱: 約旦哈希米王國<br>人數: 7<br>館址(外文): 18, Iritiria Street,Um Uthaina, Amman, Jordan<br>主管: 買睿明<br>職稱: 代表<br>主管英文名稱: Ismail Mae<br>EMAIL: jor@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞西地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>約旦哈希米王國</value>
+          </Data>
+          <Data name="人數">
+            <value>7.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>18, Iritiria Street,Um Uthaina, Amman, Jordan</value>
+          </Data>
+          <Data name="主管">
+            <value>買睿明</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Ismail Mae</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>jor@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐科威特代表處 (駐科威特王國台北商務代表處)</name>
+        <address>駐科威特代表處 (駐科威特王國台北商務代表處) 21-A, Street No. 103, Block 8, Al-Jabriya, State of Kuwait</address>
+        <description><![CDATA[地區: 亞西地區<br>國家名稱: 科威特<br>人數: 3<br>館址(外文): 21-A, Street No. 103, Block 8, Al-Jabriya, State of Kuwait<br>主管: 牟華瑋<br>職稱: 代表<br>主管英文名稱: Hua-Wei Mou<br>EMAIL: kwt@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞西地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>科威特</value>
+          </Data>
+          <Data name="人數">
+            <value>3.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>21-A, Street No. 103, Block 8, Al-Jabriya, State of Kuwait</value>
+          </Data>
+          <Data name="主管">
+            <value>牟華瑋</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Hua-Wei Mou</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>kwt@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐蒙古代表處 (駐烏蘭巴托台北貿易經濟代表處)</name>
+        <address>駐蒙古代表處 (駐烏蘭巴托台北貿易經濟代表處) Taiwan Center, Tourist Street-38, Chingeltei District, Ulaanbaatar, Mongolia, Ulaanbaatar 16040蒙古</address>
+        <description><![CDATA[地區: 亞西地區<br>國家名稱: 蒙古國<br>人數: 4<br>館址(外文): Taiwan Center, Tourist Street-38, Chingeltei District, Ulaanbaatar, Mongolia, Ulaanbaatar 16040蒙古<br>主管: 黃國榮<br>職稱: 代表<br>主管英文名稱: Mark K.J. Huang<br>EMAIL: mng@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞西地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>蒙古國</value>
+          </Data>
+          <Data name="人數">
+            <value>4.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Taiwan Center, Tourist Street-38, Chingeltei District, Ulaanbaatar, Mongolia, Ulaanbaatar 16040蒙古</value>
+          </Data>
+          <Data name="主管">
+            <value>黃國榮</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Mark K.J. Huang</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>mng@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐阿曼代表處 (駐阿曼王國台北經濟文化辦事處)</name>
+        <address>駐阿曼代表處 (駐阿曼王國台北經濟文化辦事處) 2058، 1528 Way, Muscat</address>
+        <description><![CDATA[地區: 亞西地區<br>國家名稱: 阿曼王國<br>人數: 5<br>館址(外文): 2058، 1528 Way, Muscat<br>主管: 陳柏秀<br>職稱: 代表<br>主管英文名稱: Chen, Bor-show<br>EMAIL: omn@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞西地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>阿曼王國</value>
+          </Data>
+          <Data name="人數">
+            <value>5.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>2058، 1528 Way, Muscat</value>
+          </Data>
+          <Data name="主管">
+            <value>陳柏秀</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Chen, Bor-show</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>omn@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐俄羅斯代表處 (台北莫斯科經濟文化協調委員會駐莫斯科代表處)</name>
+        <address>駐俄羅斯代表處 (台北莫斯科經濟文化協調委員會駐莫斯科代表處) 24/2 Tverskaya St., Korpus 1, Gate 4, 4th FL., Moscow 125009, Russian Federation</address>
+        <description><![CDATA[地區: 亞西地區<br>國家名稱: 俄羅斯聯邦<br>人數: 16<br>館址(外文): 24/2 Tverskaya St., Korpus 1, Gate 4, 4th FL., Moscow 125009, Russian Federation<br>主管: 耿中庸<br>職稱: 代表<br>主管英文名稱: KENG, CHUNG-YUNG<br>EMAIL: rus@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞西地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>俄羅斯聯邦</value>
+          </Data>
+          <Data name="人數">
+            <value>16.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>24/2 Tverskaya St., Korpus 1, Gate 4, 4th FL., Moscow 125009, Russian Federation</value>
+          </Data>
+          <Data name="主管">
+            <value>耿中庸</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>KENG, CHUNG-YUNG</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>rus@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐沙烏地阿拉伯代表處 (駐沙烏地阿拉伯王國台北經濟文化代表處)</name>
+        <address>駐沙烏地阿拉伯代表處 (駐沙烏地阿拉伯王國台北經濟文化代表處) Riyadh, Al Safarat, 3392 Abdullah Alsahmi Street - As Safarat Dist - 8210</address>
+        <description><![CDATA[地區: 亞西地區<br>國家名稱: 沙烏地阿拉伯王國<br>人數: 16<br>館址(外文): Riyadh, Al Safarat, 3392 Abdullah Alsahmi Street - As Safarat Dist - 8210<br>主管: 鄧盛平<br>職稱: 代表<br>主管英文名稱: Shen-Ping, Teng<br>EMAIL: sau@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞西地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>沙烏地阿拉伯王國</value>
+          </Data>
+          <Data name="人數">
+            <value>16.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Riyadh, Al Safarat, 3392 Abdullah Alsahmi Street - As Safarat Dist - 8210</value>
+          </Data>
+          <Data name="主管">
+            <value>鄧盛平</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Shen-Ping, Teng</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>sau@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐土耳其代表處 (駐安卡拉台北經濟文化代表團)</name>
+        <address>駐土耳其代表處 (駐安卡拉台北經濟文化代表團) Kazım Özalp, Rabat Sk. No:16, 06700 Çankaya/Ankara, 土耳其</address>
+        <description><![CDATA[地區: 亞西地區<br>國家名稱: 土耳其共和國<br>人數: 7<br>館址(外文): Kazım Özalp, Rabat Sk. No:16, 06700 Çankaya/Ankara, 土耳其<br>主管: 鄭泰祥<br>職稱: 代表<br>主管英文名稱: Yaser T. H. CHENG<br>EMAIL: tur@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞西地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>土耳其共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>7.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Kazım Özalp, Rabat Sk. No:16, 06700 Çankaya/Ankara, 土耳其</value>
+          </Data>
+          <Data name="主管">
+            <value>鄭泰祥</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Yaser T. H. CHENG</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>tur@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐奈及利亞代表處 (駐奈及利亞聯邦共和國臺北貿易辦事處)</name>
+        <address>駐奈及利亞代表處 (駐奈及利亞聯邦共和國臺北貿易辦事處) 3 Aromire Rd, Ikoyi, Lagos, 奈及利亞</address>
+        <description><![CDATA[地區: 非洲地區<br>國家名稱: 奈及利亞聯邦共和國<br>人數: 6<br>館址(外文): 3 Aromire Rd, Ikoyi, Lagos, 奈及利亞<br>主管: 楊文昇<br>職稱: 代表<br>主管英文名稱: Vincent W.S. Yang<br>EMAIL: nga@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>非洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>奈及利亞聯邦共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>6.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>3 Aromire Rd, Ikoyi, Lagos, 奈及利亞</value>
+          </Data>
+          <Data name="主管">
+            <value>楊文昇</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Vincent W.S. Yang</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>nga@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐南非代表處 (駐南非共和國台北聯絡代表處)</name>
+        <address>駐南非代表處 (駐南非共和國台北聯絡代表處) 1147 Francis Baard St, Hatfield, Pretoria, 0028</address>
+        <description><![CDATA[地區: 非洲地區<br>國家名稱: 南非共和國<br>人數: 18<br>館址(外文): 1147 Francis Baard St, Hatfield, Pretoria, 0028<br>主管: 周唯中<br>職稱: 代表<br>主管英文名稱: CHOU, WEI-CHUNG<br>EMAIL: zaf@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>非洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>南非共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>18.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>1147 Francis Baard St, Hatfield, Pretoria, 0028</value>
+          </Data>
+          <Data name="主管">
+            <value>周唯中</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>CHOU, WEI-CHUNG</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>zaf@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐奧地利代表處</name>
+        <address>駐奧地利代表處 Wagramer Str. 19/11. OG, A-1220 Vienna, Austria</address>
+        <description><![CDATA[地區: 歐洲地區<br>國家名稱: 奧地利共和國<br>人數: 16<br>館址(外文): Wagramer Str. 19/11. OG, A-1220 Vienna, Austria<br>主管: 史亞平<br>職稱: 代表<br>主管英文名稱: Shih, Yea-Ping<br>EMAIL: aut@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>歐洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>奧地利共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>16.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Wagramer Str. 19/11. OG, A-1220 Vienna, Austria</value>
+          </Data>
+          <Data name="主管">
+            <value>史亞平</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Shih, Yea-Ping</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>aut@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐捷克代表處 (駐捷克台北經濟文化辦事處)</name>
+        <address>駐捷克代表處 (駐捷克台北經濟文化辦事處) Evropska 2590/33c, 160 00 Praha 6, Czech Republic</address>
+        <description><![CDATA[地區: 歐洲地區<br>國家名稱: 捷克共和國<br>人數: 9<br>館址(外文): Evropska 2590/33c, 160 00 Praha 6, Czech Republic<br>主管: 汪忠一<br>職稱: 代表<br>主管英文名稱: Chung-I Wang<br>EMAIL: infocze@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>歐洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>捷克共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>9.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Evropska 2590/33c, 160 00 Praha 6, Czech Republic</value>
+          </Data>
+          <Data name="主管">
+            <value>汪忠一</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Chung-I Wang</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>infocze@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐丹麥代表處 (駐丹麥台北代表處)</name>
+        <address>駐丹麥代表處 (駐丹麥台北代表處) Amaliegade 3, 2. Sal, 1256 København K, Denmark</address>
+        <description><![CDATA[地區: 歐洲地區<br>國家名稱: 丹麥王國<br>人數: 5<br>館址(外文): Amaliegade 3, 2. Sal, 1256 København K, Denmark<br>主管: 李翔宙<br>職稱: 代表<br>主管英文名稱: Lee, Shying-jow<br>EMAIL: contact@taipeioffice.dk]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>歐洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>丹麥王國</value>
+          </Data>
+          <Data name="人數">
+            <value>5.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Amaliegade 3, 2. Sal, 1256 København K, Denmark</value>
+          </Data>
+          <Data name="主管">
+            <value>李翔宙</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Lee, Shying-jow</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>contact@taipeioffice.dk</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐歐盟兼駐比利時代表處</name>
+        <address>駐歐盟兼駐比利時代表處 Square de Meeûs 26-27, 1000 Bruxelles, Belgique</address>
+        <description><![CDATA[地區: 歐洲地區<br>國家名稱: 歐洲聯盟<br>人數: 47<br>館址(外文): Square de Meeûs 26-27, 1000 Bruxelles, Belgique<br>主管: 曾厚仁<br>職稱: 代表<br>主管英文名稱: Ho-Jen TSENG<br>EMAIL: bel@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>歐洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>歐洲聯盟</value>
+          </Data>
+          <Data name="人數">
+            <value>47.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Square de Meeûs 26-27, 1000 Bruxelles, Belgique</value>
+          </Data>
+          <Data name="主管">
+            <value>曾厚仁</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Ho-Jen TSENG</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>bel@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐芬蘭代表處 (駐芬蘭台北代表處)</name>
+        <address>駐芬蘭代表處 (駐芬蘭台北代表處) Aleksanterinkatu 17， 4th Floor，00100 Helsinki， Finland</address>
+        <description><![CDATA[地區: 歐洲地區<br>國家名稱: 芬蘭共和國<br>人數: 3<br>館址(外文): Aleksanterinkatu 17， 4th Floor，00100 Helsinki， Finland<br>主管: 程其蘅<br>職稱: 代表<br>主管英文名稱: R. Jane Cheng<br>EMAIL: fin@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>歐洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>芬蘭共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>3.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Aleksanterinkatu 17， 4th Floor，00100 Helsinki， Finland</value>
+          </Data>
+          <Data name="主管">
+            <value>程其蘅</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>R. Jane Cheng</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>fin@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐法國代表處 (駐法國台北代表處)</name>
+        <address><![CDATA[駐法國代表處 (駐法國台北代表處) 78 rue de l'Universite 75007 Paris France]]></address>
+        <description><![CDATA[地區: 歐洲地區<br>國家名稱: 法蘭西共和國<br>人數: 58<br>館址(外文): 78 rue de l'Universite 75007 Paris France<br>主管: 吳志中<br>職稱: 代表<br>主管英文名稱: François Chih-Chung WU<br>EMAIL: fra@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>歐洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>法蘭西共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>58.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value><![CDATA[78 rue de l'Universite 75007 Paris France]]></value>
+          </Data>
+          <Data name="主管">
+            <value>吳志中</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>François Chih-Chung WU</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>fra@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐德國代表處 (駐德國台北代表處)</name>
+        <address>駐德國代表處 (駐德國台北代表處) Markgrafenstrasse. 35, 10117 Berlin, Germany</address>
+        <description><![CDATA[地區: 歐洲地區<br>國家名稱: 德意志聯邦共和國<br>人數: 34<br>館址(外文): Markgrafenstrasse. 35, 10117 Berlin, Germany<br>主管: 謝志偉<br>職稱: 代表<br>主管英文名稱: SHIEH, Jhy-Wey<br>EMAIL: deu@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>歐洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>德意志聯邦共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>34.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Markgrafenstrasse. 35, 10117 Berlin, Germany</value>
+          </Data>
+          <Data name="主管">
+            <value>謝志偉</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>SHIEH, Jhy-Wey</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>deu@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐希臘代表處 (駐希臘台北代表處)</name>
+        <address>駐希臘代表處 (駐希臘台北代表處) 57, Marathonodromon Avenue, 15452 Paleo Psychico, Athens, Greece</address>
+        <description><![CDATA[地區: 歐洲地區<br>國家名稱: 希臘共和國<br>人數: 8<br>館址(外文): 57, Marathonodromon Avenue, 15452 Paleo Psychico, Athens, Greece<br>主管: 郭時南<br>職稱: 代表<br>主管英文名稱: Sherman Shih-nan KUO<br>EMAIL: grc@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>歐洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>希臘共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>8.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>57, Marathonodromon Avenue, 15452 Paleo Psychico, Athens, Greece</value>
+          </Data>
+          <Data name="主管">
+            <value>郭時南</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Sherman Shih-nan KUO</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>grc@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐匈牙利代表處 (駐匈牙利台北代表處)</name>
+        <address>駐匈牙利代表處 (駐匈牙利台北代表處) 1088 Budapest, Rakoczi ut 1-3/II em Hungary</address>
+        <description><![CDATA[地區: 歐洲地區<br>國家名稱: 匈牙利<br>人數: 12<br>館址(外文): 1088 Budapest, Rakoczi ut 1-3/II em Hungary<br>主管: 張雲屏<br>職稱: 代表<br>主管英文名稱: Andrew Y.P. Chang<br>EMAIL: hng@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>歐洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>匈牙利</value>
+          </Data>
+          <Data name="人數">
+            <value>12.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>1088 Budapest, Rakoczi ut 1-3/II em Hungary</value>
+          </Data>
+          <Data name="主管">
+            <value>張雲屏</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Andrew Y.P. Chang</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>hng@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐愛爾蘭代表處 (駐愛爾蘭台北代表處)</name>
+        <address>駐愛爾蘭代表處 (駐愛爾蘭台北代表處) 8 Lower Hatch St., Dublin 2, D02Vy31, Ireland</address>
+        <description><![CDATA[地區: 歐洲地區<br>國家名稱: 愛爾蘭共和國<br>人數: 5<br>館址(外文): 8 Lower Hatch St., Dublin 2, D02Vy31, Ireland<br>主管: 楊子葆<br>職稱: 代表<br>主管英文名稱: Yang Tzu-pao<br>EMAIL: irl@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>歐洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>愛爾蘭共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>5.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>8 Lower Hatch St., Dublin 2, D02Vy31, Ireland</value>
+          </Data>
+          <Data name="主管">
+            <value>楊子葆</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Yang Tzu-pao</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>irl@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐義大利代表處 (駐義大利台北代表處)</name>
+        <address>駐義大利代表處 (駐義大利台北代表處) Viale Liegi No. 17, 00198 Roma, Italia</address>
+        <description><![CDATA[地區: 歐洲地區<br>國家名稱: 義大利共和國<br>人數: 11<br>館址(外文): Viale Liegi No. 17, 00198 Roma, Italia<br>主管: 李新穎<br>職稱: 代表<br>主管英文名稱: Lee, Sing-Ying<br>EMAIL: ita@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>歐洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>義大利共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>11.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Viale Liegi No. 17, 00198 Roma, Italia</value>
+          </Data>
+          <Data name="主管">
+            <value>李新穎</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Lee, Sing-Ying</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>ita@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐拉脫維亞代表處 (駐拉脫維亞臺北代表團)</name>
+        <address>駐拉脫維亞代表處 (駐拉脫維亞臺北代表團) Elizabetes Street 2, Riga LV—1010, Latvia</address>
+        <description><![CDATA[地區: 歐洲地區<br>國家名稱: 拉脫維亞共和國<br>人數: 8<br>館址(外文): Elizabetes Street 2, Riga LV—1010, Latvia<br>主管: 金星<br>職稱: 代表<br>主管英文名稱: Chin, Hsing<br>EMAIL: lva@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>歐洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>拉脫維亞共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>8.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Elizabetes Street 2, Riga LV—1010, Latvia</value>
+          </Data>
+          <Data name="主管">
+            <value>金星</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Chin, Hsing</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>lva@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐波蘭代表處 (駐波蘭臺北代表處)</name>
+        <address>駐波蘭代表處 (駐波蘭臺北代表處) 30th Floor, Ul. Emilii Plater 53, 00-113 Warsaw, Poland</address>
+        <description><![CDATA[地區: 歐洲地區<br>國家名稱: 波蘭共和國<br>人數: 15<br>館址(外文): 30th Floor, Ul. Emilii Plater 53, 00-113 Warsaw, Poland<br>主管: 施文斌<br>職稱: 代表<br>主管英文名稱: Weber Ven-Bin SHIH<br>EMAIL: tro.pl@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>歐洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>波蘭共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>15.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>30th Floor, Ul. Emilii Plater 53, 00-113 Warsaw, Poland</value>
+          </Data>
+          <Data name="主管">
+            <value>施文斌</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Weber Ven-Bin SHIH</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>tro.pl@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐葡萄牙代表處 (駐葡萄牙台北經濟文化中心)</name>
+        <address>駐葡萄牙代表處 (駐葡萄牙台北經濟文化中心) Av. da Liberdade,no 200-4o, 1250-147 Lisboa Portugal</address>
+        <description><![CDATA[地區: 歐洲地區<br>國家名稱: 葡萄牙共和國<br>人數: 3<br>館址(外文): Av. da Liberdade,no 200-4o, 1250-147 Lisboa Portugal<br>主管: 王樂生<br>職稱: 代表<br>主管英文名稱: Raymond L.S. Wang<br>EMAIL: prt@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>歐洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>葡萄牙共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>3.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Av. da Liberdade,no 200-4o, 1250-147 Lisboa Portugal</value>
+          </Data>
+          <Data name="主管">
+            <value>王樂生</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Raymond L.S. Wang</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>prt@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐斯洛伐克代表處(駐斯洛伐克台北代表處)</name>
+        <address>駐斯洛伐克代表處(駐斯洛伐克台北代表處) Mostová 185/2, 811 02 Bratislava - Staré Mesto-Staré Mesto, Slovak Republic</address>
+        <description><![CDATA[地區: 歐洲地區<br>國家名稱: 斯洛伐克共和國<br>人數: 10<br>館址(外文): Mostová 185/2, 811 02 Bratislava - Staré Mesto-Staré Mesto, Slovak Republic<br>主管: 曾瑞利<br>職稱: 代表<br>主管英文名稱: Larry Tseng<br>EMAIL: svk@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>歐洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>斯洛伐克共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>10.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Mostová 185/2, 811 02 Bratislava - Staré Mesto-Staré Mesto, Slovak Republic</value>
+          </Data>
+          <Data name="主管">
+            <value>曾瑞利</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Larry Tseng</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>svk@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐西班牙代表處 (駐西班牙台北經濟文化辦事處)</name>
+        <address>駐西班牙代表處 (駐西班牙台北經濟文化辦事處) C / Rosario Pino 14-16， Piso 18 Dcha． 28020 Madrid， España</address>
+        <description><![CDATA[地區: 歐洲地區<br>國家名稱: 西班牙王國<br>人數: 17<br>館址(外文): C / Rosario Pino 14-16， Piso 18 Dcha． 28020 Madrid， España<br>主管: 劉德立<br>職稱: 代表<br>主管英文名稱: José María Liu<br>EMAIL: esp@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>歐洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>西班牙王國</value>
+          </Data>
+          <Data name="人數">
+            <value>17.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>C / Rosario Pino 14-16， Piso 18 Dcha． 28020 Madrid， España</value>
+          </Data>
+          <Data name="主管">
+            <value>劉德立</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>José María Liu</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>esp@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐瑞典代表處 (駐瑞典台北代表團)</name>
+        <address>駐瑞典代表處 (駐瑞典台北代表團) Wenner-Gren Center  Sveavägen 166, 18tr 113 46 Stockholm</address>
+        <description><![CDATA[地區: 歐洲地區<br>國家名稱: 瑞典王國<br>人數: 8<br>館址(外文): Wenner-Gren Center  Sveavägen 166, 18tr 113 46 Stockholm<br>主管: 廖東周<br>職稱: 代表<br>主管英文名稱: Daniel T.C. Liao<br>EMAIL: swe@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>歐洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>瑞典王國</value>
+          </Data>
+          <Data name="人數">
+            <value>8.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Wenner-Gren Center  Sveavägen 166, 18tr 113 46 Stockholm</value>
+          </Data>
+          <Data name="主管">
+            <value>廖東周</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Daniel T.C. Liao</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>swe@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐瑞士代表處 (駐瑞士台北文化經濟代表團)</name>
+        <address>駐瑞士代表處 (駐瑞士台北文化經濟代表團) Kirchenfeldstrasse 14, 3005 Bern, Switzerland</address>
+        <description><![CDATA[地區: 歐洲地區<br>國家名稱: 瑞士聯邦<br>人數: 13<br>館址(外文): Kirchenfeldstrasse 14, 3005 Bern, Switzerland<br>主管: 黃偉峰<br>職稱: 代表<br>主管英文名稱: David W.F. HUANG<br>EMAIL: taiwaninbern@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>歐洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>瑞士聯邦</value>
+          </Data>
+          <Data name="人數">
+            <value>13.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Kirchenfeldstrasse 14, 3005 Bern, Switzerland</value>
+          </Data>
+          <Data name="主管">
+            <value>黃偉峰</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>David W.F. HUANG</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>taiwaninbern@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐荷蘭代表處 (駐荷蘭台北代表處)</name>
+        <address>駐荷蘭代表處 (駐荷蘭台北代表處) Van Stolkweg 23, 2585 JM Den Haag, The Netherlands</address>
+        <description><![CDATA[地區: 歐洲地區<br>國家名稱: 荷蘭王國<br>人數: 10<br>館址(外文): Van Stolkweg 23, 2585 JM Den Haag, The Netherlands<br>主管: 陳欣新<br>職稱: 代表<br>主管英文名稱: Chen, Hsing-Hsing<br>EMAIL: admnld@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>歐洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>荷蘭王國</value>
+          </Data>
+          <Data name="人數">
+            <value>10.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Van Stolkweg 23, 2585 JM Den Haag, The Netherlands</value>
+          </Data>
+          <Data name="主管">
+            <value>陳欣新</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Chen, Hsing-Hsing</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>admnld@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐英國代表處 (駐英國台北代表處)</name>
+        <address>駐英國代表處 (駐英國台北代表處) 50 Grosvenor Gardens London SW1W 0EB United Kingdom</address>
+        <description><![CDATA[地區: 歐洲地區<br>國家名稱: 大不列顛暨北愛爾蘭聯合王國<br>人數: 53<br>館址(外文): 50 Grosvenor Gardens London SW1W 0EB United Kingdom<br>主管: 林永樂<br>職稱: 代表<br>主管英文名稱: David Y. L. Lin<br>EMAIL: gbr@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>歐洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>大不列顛暨北愛爾蘭聯合王國</value>
+          </Data>
+          <Data name="人數">
+            <value>53.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>50 Grosvenor Gardens London SW1W 0EB United Kingdom</value>
+          </Data>
+          <Data name="主管">
+            <value>林永樂</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>David Y. L. Lin</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>gbr@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐加拿大代表處 (駐加拿大台北經濟文化代表處)</name>
+        <address><![CDATA[駐加拿大代表處 (駐加拿大台北經濟文化代表處) 45 O'CONNOR STREET, SUITE 1960, OTTAWA, ONTARIO K1P1A4]]></address>
+        <description><![CDATA[地區: 北美地區<br>國家名稱: 加拿大<br>人數: 30<br>館址(外文): 45 O'CONNOR STREET, SUITE 1960, OTTAWA, ONTARIO K1P1A4<br>主管: 陳文儀<br>職稱: 代表<br>主管英文名稱: Winston Wen-Yi Chen<br>EMAIL: can@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>北美地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>加拿大</value>
+          </Data>
+          <Data name="人數">
+            <value>30.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value><![CDATA[45 O'CONNOR STREET, SUITE 1960, OTTAWA, ONTARIO K1P1A4]]></value>
+          </Data>
+          <Data name="主管">
+            <value>陳文儀</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Winston Wen-Yi Chen</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>can@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐美國代表處 (駐美國台北經濟文化代表處)</name>
+        <address>駐美國代表處 (駐美國台北經濟文化代表處) 4201 Wisconsin Avenue, N. W., Washington, District of Columbia 20016-2137, U.S.A.</address>
+        <description><![CDATA[地區: 北美地區<br>國家名稱: 美利堅合眾國<br>人數: 126<br>館址(外文): 4201 Wisconsin Avenue, N. W., Washington, District of Columbia 20016-2137, U.S.A.<br>主管: 高碩泰<br>職稱: 代表<br>主管英文名稱: Stanley Kao<br>EMAIL: usa@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>北美地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>美利堅合眾國</value>
+          </Data>
+          <Data name="人數">
+            <value>126.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>4201 Wisconsin Avenue, N. W., Washington, District of Columbia 20016-2137, U.S.A.</value>
+          </Data>
+          <Data name="主管">
+            <value>高碩泰</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Stanley Kao</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>usa@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐阿根廷代表處 (駐阿根廷台北商務文化辦事處)</name>
+        <address>駐阿根廷代表處 (駐阿根廷台北商務文化辦事處) Av. de Mayo 654, C1084AAO CABA</address>
+        <description><![CDATA[地區: 拉丁美洲及加勒比海地區<br>國家名稱: 阿根廷共和國<br>人數: 17<br>館址(外文): Av. de Mayo 654, C1084AAO CABA<br>主管: 謝俊得<br>職稱: 代表<br>主管英文名稱: Antonio C. T. Hsieh<br>EMAIL: arg@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>拉丁美洲及加勒比海地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>阿根廷共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>17.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Av. de Mayo 654, C1084AAO CABA</value>
+          </Data>
+          <Data name="主管">
+            <value>謝俊得</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Antonio C. T. Hsieh</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>arg@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐巴西代表處 (駐巴西台北經濟文化辦事處)</name>
+        <address>駐巴西代表處 (駐巴西台北經濟文化辦事處) 23, St. de Habitações Individuais Sul QI 9 Conj. 16 - Lago Sul, Brasília - DF, 71625-160, Brasil</address>
+        <description><![CDATA[地區: 拉丁美洲及加勒比海地區<br>國家名稱: 巴西聯邦共和國<br>人數: 10<br>館址(外文): 23, St. de Habitações Individuais Sul QI 9 Conj. 16 - Lago Sul, Brasília - DF, 71625-160, Brasil<br>主管: 何建功<br>職稱: 代表<br>主管英文名稱: Her, Jian-Gueng<br>EMAIL: bra@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>拉丁美洲及加勒比海地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>巴西聯邦共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>10.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>23, St. de Habitações Individuais Sul QI 9 Conj. 16 - Lago Sul, Brasília - DF, 71625-160, Brasil</value>
+          </Data>
+          <Data name="主管">
+            <value>何建功</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Her, Jian-Gueng</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>bra@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐智利代表處 (駐智利台北經濟文化辦事處)</name>
+        <address>駐智利代表處 (駐智利台北經濟文化辦事處) Av. Apoquindo 3001, Las Condes, Región Metropolitana, Chile</address>
+        <description><![CDATA[地區: 拉丁美洲及加勒比海地區<br>國家名稱: 智利共和國<br>人數: 15<br>館址(外文): Av. Apoquindo 3001, Las Condes, Región Metropolitana, Chile<br>主管: 溫曜禎<br>職稱: 代表<br>主管英文名稱: Yao-Jen Wen<br>EMAIL: chl@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>拉丁美洲及加勒比海地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>智利共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>15.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Av. Apoquindo 3001, Las Condes, Región Metropolitana, Chile</value>
+          </Data>
+          <Data name="主管">
+            <value>溫曜禎</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Yao-Jen Wen</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>chl@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐哥倫比亞代表處 (駐哥倫比亞台北商務辦事處)</name>
+        <address>駐哥倫比亞代表處 (駐哥倫比亞台北商務辦事處) Cra. 11 #93-53, Bogotá, Colombia</address>
+        <description><![CDATA[地區: 拉丁美洲及加勒比海地區<br>國家名稱: 哥倫比亞共和國<br>人數: 6<br>館址(外文): Cra. 11 #93-53, Bogotá, Colombia<br>主管: 韓志正<br>職稱: 代表<br>主管英文名稱: Chih-cheng Han (José Han)<br>EMAIL: col@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>拉丁美洲及加勒比海地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>哥倫比亞共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>6.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Cra. 11 #93-53, Bogotá, Colombia</value>
+          </Data>
+          <Data name="主管">
+            <value>韓志正</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Chih-cheng Han (José Han)</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>col@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐厄瓜多代表處 (臺北駐厄瓜多商務處)</name>
+        <address>駐厄瓜多代表處 (臺北駐厄瓜多商務處) CATALINA ALDAZ N34-181 Y PORTUGAL, EDIFICIO TITANIUM II PISO 2,QUITO,ECUADOR</address>
+        <description><![CDATA[地區: 拉丁美洲及加勒比海地區<br>國家名稱: 厄瓜多共和國<br>人數: 5<br>館址(外文): CATALINA ALDAZ N34-181 Y PORTUGAL, EDIFICIO TITANIUM II PISO 2,QUITO,ECUADOR<br>主管: 鄭力城<br>職稱: 代表<br>主管英文名稱: Cheng, Li-Cheng<br>EMAIL: ecu2@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>拉丁美洲及加勒比海地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>厄瓜多共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>5.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>CATALINA ALDAZ N34-181 Y PORTUGAL, EDIFICIO TITANIUM II PISO 2,QUITO,ECUADOR</value>
+          </Data>
+          <Data name="主管">
+            <value>鄭力城</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Cheng, Li-Cheng</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>ecu2@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐墨西哥代表處 (駐墨西哥台北經濟文化辦事處)</name>
+        <address>駐墨西哥代表處 (駐墨西哥台北經濟文化辦事處) Bosque de La Reforma 758,Bosques de Las Lomas,Miguel Hidalgo,C.P. 11700,Ciudad de Mexico,Mexico</address>
+        <description><![CDATA[地區: 拉丁美洲及加勒比海地區<br>國家名稱: 墨西哥合眾國<br>人數: 14<br>館址(外文): Bosque de La Reforma 758,Bosques de Las Lomas,Miguel Hidalgo,C.P. 11700,Ciudad de Mexico,Mexico<br>主管: 鄭正勇<br>職稱: 代表<br>主管英文名稱: Armando Cheng<br>EMAIL: mex@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>拉丁美洲及加勒比海地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>墨西哥合眾國</value>
+          </Data>
+          <Data name="人數">
+            <value>14.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Bosque de La Reforma 758,Bosques de Las Lomas,Miguel Hidalgo,C.P. 11700,Ciudad de Mexico,Mexico</value>
+          </Data>
+          <Data name="主管">
+            <value>鄭正勇</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Armando Cheng</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>mex@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐秘魯代表處 (駐秘魯台北經濟文化辦事處)</name>
+        <address>駐秘魯代表處 (駐秘魯台北經濟文化辦事處) Av. Las Palmeras No.301, Urb. Camacho, La Molina, Lima, Peru</address>
+        <description><![CDATA[地區: 拉丁美洲及加勒比海地區<br>國家名稱: 秘魯共和國<br>人數: 7<br>館址(外文): Av. Las Palmeras No.301, Urb. Camacho, La Molina, Lima, Peru<br>主管: 李岳融<br>職稱: 代表<br>主管英文名稱: Lee, Yueh Jung<br>EMAIL: per@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>拉丁美洲及加勒比海地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>秘魯共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>7.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Av. Las Palmeras No.301, Urb. Camacho, La Molina, Lima, Peru</value>
+          </Data>
+          <Data name="主管">
+            <value>李岳融</value>
+          </Data>
+          <Data name="職稱">
+            <value>代表</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Lee, Yueh Jung</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>per@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>辦事處</name>
+      <Placemark>
+        <name>駐雪梨辦事處 (駐雪梨台北經濟文化辦事處)</name>
+        <address>駐雪梨辦事處 (駐雪梨台北經濟文化辦事處) Suite 1902, M.L.C. Centre, 19 Martin Place, Sydney, N.S.W. 2000 Australia</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 澳大利亞<br>人數: 11<br>館址(外文): Suite 1902, M.L.C. Centre, 19 Martin Place, Sydney, N.S.W. 2000 Australia<br>主管: 王雪虹<br>職稱: 處長<br>主管英文名稱: Constance Wang<br>EMAIL: syd@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>澳大利亞</value>
+          </Data>
+          <Data name="人數">
+            <value>11.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Suite 1902, M.L.C. Centre, 19 Martin Place, Sydney, N.S.W. 2000 Australia</value>
+          </Data>
+          <Data name="主管">
+            <value>王雪虹</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Constance Wang</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>syd@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐布里斯本辦事處(駐布里斯本台北經濟文化辦事處)</name>
+        <address>駐布里斯本辦事處(駐布里斯本台北經濟文化辦事處) Level 34, Riparian Plaza, 71 Eagle Street, Brisbane QLD 4000</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 澳大利亞<br>人數: 8<br>館址(外文): Level 34, Riparian Plaza, 71 Eagle Street, Brisbane QLD 4000<br>主管: 洪振榮<br>職稱: 處長<br>主管英文名稱: Chen-Jung (Bruce) Hung<br>EMAIL: bne2@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>澳大利亞</value>
+          </Data>
+          <Data name="人數">
+            <value>8.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Level 34, Riparian Plaza, 71 Eagle Street, Brisbane QLD 4000</value>
+          </Data>
+          <Data name="主管">
+            <value>洪振榮</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Chen-Jung (Bruce) Hung</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>bne2@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐墨爾本辦事處 (駐墨爾本台北經濟文化辦事處)</name>
+        <address>駐墨爾本辦事處 (駐墨爾本台北經濟文化辦事處) Level 46, 80 Collins St, Melbourne, VIC 3000, Australia</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 澳大利亞<br>人數: 8<br>館址(外文): Level 46, 80 Collins St, Melbourne, VIC 3000, Australia<br>主管: 林起文<br>職稱: 處長<br>主管英文名稱: Chi-wen Lin<br>EMAIL: mel@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>澳大利亞</value>
+          </Data>
+          <Data name="人數">
+            <value>8.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Level 46, 80 Collins St, Melbourne, VIC 3000, Australia</value>
+          </Data>
+          <Data name="主管">
+            <value>林起文</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Chi-wen Lin</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>mel@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐清奈辦事處 (駐清奈臺北經濟文化辦事處)</name>
+        <address>駐清奈辦事處 (駐清奈臺北經濟文化辦事處) No. 30, Norton Road, Mandaveli, Chennai 600028, Tamil Nadu, India</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 印度共和國<br>人數: 4<br>館址(外文): No. 30, Norton Road, Mandaveli, Chennai 600028, Tamil Nadu, India<br>主管: 李朝成<br>職稱: 處長<br>主管英文名稱: Charles Li<br>EMAIL: maa@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>印度共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>4.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>No. 30, Norton Road, Mandaveli, Chennai 600028, Tamil Nadu, India</value>
+          </Data>
+          <Data name="主管">
+            <value>李朝成</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Charles Li</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>maa@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐泗水辦事處(駐泗水臺北經濟貿易辦事處)</name>
+        <address>駐泗水辦事處(駐泗水臺北經濟貿易辦事處) Jalan Indragiri No.49, Surabaya 60241, Indonesia</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 印度尼西亞共和國<br>人數: 5<br>館址(外文): Jalan Indragiri No.49, Surabaya 60241, Indonesia<br>主管: 林鼎翔<br>職稱: 處長<br>主管英文名稱: Benson D. S. Lin<br>EMAIL: sub@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>印度尼西亞共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>5.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Jalan Indragiri No.49, Surabaya 60241, Indonesia</value>
+          </Data>
+          <Data name="主管">
+            <value>林鼎翔</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Benson D. S. Lin</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>sub@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐大阪辦事處(台北駐大阪經濟文化辦事處)</name>
+        <address>駐大阪辦事處(台北駐大阪經濟文化辦事處) 大阪市北区中之島二丁目三番一八号17樓及19樓</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 日本<br>人數: 29<br>館址(外文): 大阪市北区中之島二丁目三番一八号17樓及19樓<br>主管: 李世丙<br>職稱: 處長<br>主管英文名稱: Lee,Shyh-bing <br>EMAIL: teco-osa@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>日本</value>
+          </Data>
+          <Data name="人數">
+            <value>29.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>大阪市北区中之島二丁目三番一八号17樓及19樓</value>
+          </Data>
+          <Data name="主管">
+            <value>李世丙</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Lee,Shyh-bing </value>
+          </Data>
+          <Data name="EMAIL">
+            <value>teco-osa@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐福岡辦事處 (台北駐大阪經濟文化辦事處福岡分處)</name>
+        <address>駐福岡辦事處 (台北駐大阪經濟文化辦事處福岡分處) 日本福岡縣福岡市中央區櫻坂3-12-42</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 日本<br>人數: 14<br>館址(外文): 日本福岡縣福岡市中央區櫻坂3-12-42<br>主管: 陳忠正<br>職稱: 處長<br>主管英文名稱: Chen, Chung-cheng <br>EMAIL: fuk@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>日本</value>
+          </Data>
+          <Data name="人數">
+            <value>14.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>日本福岡縣福岡市中央區櫻坂3-12-42</value>
+          </Data>
+          <Data name="主管">
+            <value>陳忠正</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Chen, Chung-cheng </value>
+          </Data>
+          <Data name="EMAIL">
+            <value>fuk@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐橫濱辦事處 (台北駐日經濟文化代表處橫濱分處)</name>
+        <address>駐橫濱辦事處 (台北駐日經濟文化代表處橫濱分處) 横浜市中区日本大通り60番地　朝日生命ビル2階</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 日本<br>人數: 2<br>館址(外文): 横浜市中区日本大通り60番地　朝日生命ビル2階<br>主管: 張淑玲<br>職稱: 處長<br>主管英文名稱: Shu-ling Chang<br>EMAIL: yok@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>日本</value>
+          </Data>
+          <Data name="人數">
+            <value>2.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>横浜市中区日本大通り60番地　朝日生命ビル2階</value>
+          </Data>
+          <Data name="主管">
+            <value>張淑玲</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Shu-ling Chang</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>yok@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐那霸辦事處(台北駐日經濟文化代表處那霸分處)</name>
+        <address>駐那霸辦事處(台北駐日經濟文化代表處那霸分處) 日本沖縄県那覇市久茂地３－１５－９　アルテビル那覇６階</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 日本<br>人數: 6<br>館址(外文): 日本沖縄県那覇市久茂地３－１５－９　アルテビル那覇６階<br>主管: 范振國<br>職稱: 處長<br>主管英文名稱: CHEN-KUO, FAN<br>EMAIL: tecooka@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>日本</value>
+          </Data>
+          <Data name="人數">
+            <value>6.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>日本沖縄県那覇市久茂地３－１５－９　アルテビル那覇６階</value>
+          </Data>
+          <Data name="主管">
+            <value>范振國</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>CHEN-KUO, FAN</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>tecooka@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐札幌辦事處（台北駐日經濟文化代表處札幌分處）</name>
+        <address>駐札幌辦事處（台北駐日經濟文化代表處札幌分處） 北海道札幌市中央區北4西4丁目1番地 伊藤大樓5樓</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 日本<br>人數: 5<br>館址(外文): 北海道札幌市中央區北4西4丁目1番地 伊藤大樓5樓<br>主管: 周學佑<br>職稱: 處長<br>主管英文名稱: Chou Shyue-yow<br>EMAIL: spk@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>日本</value>
+          </Data>
+          <Data name="人數">
+            <value>5.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>北海道札幌市中央區北4西4丁目1番地 伊藤大樓5樓</value>
+          </Data>
+          <Data name="主管">
+            <value>周學佑</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Chou Shyue-yow</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>spk@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐奧克蘭辦事處 (駐奧克蘭台北經濟文化辦事處)</name>
+        <address>駐奧克蘭辦事處 (駐奧克蘭台北經濟文化辦事處) Level 15, Tower 2, 205 Queen Street, Auckland</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 紐西蘭<br>人數: 8<br>館址(外文): Level 15, Tower 2, 205 Queen Street, Auckland<br>主管: 劉永健<br>職稱: 處長<br>主管英文名稱: Jeff Y. J. Liu <br>EMAIL: auckland@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>紐西蘭</value>
+          </Data>
+          <Data name="人數">
+            <value>8.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Level 15, Tower 2, 205 Queen Street, Auckland</value>
+          </Data>
+          <Data name="主管">
+            <value>劉永健</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Jeff Y. J. Liu </value>
+          </Data>
+          <Data name="EMAIL">
+            <value>auckland@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐釜山辦事處(駐韓國台北代表部釜山辦事處)</name>
+        <address>駐釜山辦事處(駐韓國台北代表部釜山辦事處) Seoul, Jongno-gu, Sejongno, Sejong-daero, 149 광화문빌딩</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 大韓民國(韓國)<br>人數: 3<br>館址(外文): Seoul, Jongno-gu, Sejongno, Sejong-daero, 149 광화문빌딩<br>主管: 吳尚年<br>職稱: 處長<br>主管英文名稱: Shang-Nien Wu<br>EMAIL: pus@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>大韓民國(韓國)</value>
+          </Data>
+          <Data name="人數">
+            <value>3.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Seoul, Jongno-gu, Sejongno, Sejong-daero, 149 광화문빌딩</value>
+          </Data>
+          <Data name="主管">
+            <value>吳尚年</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Shang-Nien Wu</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>pus@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐胡志明市辦事處 (駐胡志明市台北經濟文化辦事處)</name>
+        <address>駐胡志明市辦事處 (駐胡志明市台北經濟文化辦事處) 336 Nguyen Tri Phuong St., District 10, HO CHI MINH City, Vietnam</address>
+        <description><![CDATA[地區: 亞太地區<br>國家名稱: 越南社會主義共和國<br>人數: 19<br>館址(外文): 336 Nguyen Tri Phuong St., District 10, HO CHI MINH City, Vietnam<br>主管: 鍾文正 <br>職稱: 處長<br>主管英文名稱: Chung, Wen-cheng<br>EMAIL: tecohcmc@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞太地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>越南社會主義共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>19.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>336 Nguyen Tri Phuong St., District 10, HO CHI MINH City, Vietnam</value>
+          </Data>
+          <Data name="主管">
+            <value>鍾文正 </value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Chung, Wen-cheng</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>tecohcmc@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐杜拜辦事處 (駐杜拜臺北商務辦事處)</name>
+        <address>駐杜拜辦事處 (駐杜拜臺北商務辦事處) Mezzanine Floor, Sharaf Travel Building 153 Khalid Bin Al Waleed Road Bur Dubai, Dubai, UAE</address>
+        <description><![CDATA[地區: 亞西地區<br>國家名稱: 阿拉伯聯合大公國<br>人數: 6<br>館址(外文): Mezzanine Floor, Sharaf Travel Building 153 Khalid Bin Al Waleed Road Bur Dubai, Dubai, UAE<br>主管: 楊司恭<br>職稱: 處長<br>主管英文名稱: Jerry S. K. Yang<br>EMAIL: dxb@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>亞西地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>阿拉伯聯合大公國</value>
+          </Data>
+          <Data name="人數">
+            <value>6.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Mezzanine Floor, Sharaf Travel Building 153 Khalid Bin Al Waleed Road Bur Dubai, Dubai, UAE</value>
+          </Data>
+          <Data name="主管">
+            <value>楊司恭</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Jerry S. K. Yang</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>dxb@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐開普敦辦事處 (駐開普敦台北聯絡辦事處)</name>
+        <address>駐開普敦辦事處 (駐開普敦台北聯絡辦事處) Main Tower, Standard Bank Centre, Hertzog Blvd, Foreshore, Cape Town, South Africa</address>
+        <description><![CDATA[地區: 非洲地區<br>國家名稱: 南非共和國<br>人數: 8<br>館址(外文): Main Tower, Standard Bank Centre, Hertzog Blvd, Foreshore, Cape Town, South Africa<br>主管: 王海龍<br>職稱: 處長<br>主管英文名稱: Dean Wang<br>EMAIL: cpt@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>非洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>南非共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>8.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Main Tower, Standard Bank Centre, Hertzog Blvd, Foreshore, Cape Town, South Africa</value>
+          </Data>
+          <Data name="主管">
+            <value>王海龍</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Dean Wang</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>cpt@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐法蘭克福辦事處 (駐德國台北代表處法蘭克福辦事處)</name>
+        <address>駐法蘭克福辦事處 (駐德國台北代表處法蘭克福辦事處) Friedrichstrasse 2-6, 60323 Frankfurt, Germany</address>
+        <description><![CDATA[地區: 歐洲地區<br>國家名稱: 德意志聯邦共和國<br>人數: 12<br>館址(外文): Friedrichstrasse 2-6, 60323 Frankfurt, Germany<br>主管: 陳執中<br>職稱: 處長<br>主管英文名稱: Chih-Chung CHEN<br>EMAIL: frankfurt@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>歐洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>德意志聯邦共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>12.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Friedrichstrasse 2-6, 60323 Frankfurt, Germany</value>
+          </Data>
+          <Data name="主管">
+            <value>陳執中</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Chih-Chung CHEN</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>frankfurt@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐漢堡辦事處 (駐德國代表處漢堡辦事處)</name>
+        <address>駐漢堡辦事處 (駐德國代表處漢堡辦事處) Mittelweg 144 / 2.OG, 20148 Hamburg, Germany</address>
+        <description><![CDATA[地區: 歐洲地區<br>國家名稱: 德意志聯邦共和國<br>人數: 8<br>館址(外文): Mittelweg 144 / 2.OG, 20148 Hamburg, Germany<br>主管: 羅美舜<br>職稱: 處長<br>主管英文名稱: Mei-Shun Lo<br>EMAIL: ham@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>歐洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>德意志聯邦共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>8.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Mittelweg 144 / 2.OG, 20148 Hamburg, Germany</value>
+          </Data>
+          <Data name="主管">
+            <value>羅美舜</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Mei-Shun Lo</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>ham@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐慕尼黑辦事處 (駐德國台北代表處慕尼黑辦事處)</name>
+        <address>駐慕尼黑辦事處 (駐德國台北代表處慕尼黑辦事處) Leopoldstraße 28a/V, 80802 München, Germany</address>
+        <description><![CDATA[地區: 歐洲地區<br>國家名稱: 德意志聯邦共和國<br>人數: 9<br>館址(外文): Leopoldstraße 28a/V, 80802 München, Germany<br>主管: 許聰明<br>職稱: 處長<br>主管英文名稱: Tsong-Ming Hsu<br>EMAIL: muc@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>歐洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>德意志聯邦共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>9.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Leopoldstraße 28a/V, 80802 München, Germany</value>
+          </Data>
+          <Data name="主管">
+            <value>許聰明</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Tsong-Ming Hsu</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>muc@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐日內瓦辦事處(駐瑞士台北文化經濟代表團日內瓦辦事處)</name>
+        <address>駐日內瓦辦事處(駐瑞士台北文化經濟代表團日內瓦辦事處) 56, rue de Moillebeau, 1209 Genève, Suisse</address>
+        <description><![CDATA[地區: 歐洲地區<br>國家名稱: 瑞士聯邦<br>人數: 7<br>館址(外文): 56, rue de Moillebeau, 1209 Genève, Suisse<br>主管: 王良玉<br>職稱: 處長<br>主管英文名稱: Wang, Liang-Yu<br>EMAIL: gva@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>歐洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>瑞士聯邦</value>
+          </Data>
+          <Data name="人數">
+            <value>7.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>56, rue de Moillebeau, 1209 Genève, Suisse</value>
+          </Data>
+          <Data name="主管">
+            <value>王良玉</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Wang, Liang-Yu</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>gva@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐愛丁堡辦事處 (駐英國台北代表處愛丁堡辦事處)</name>
+        <address>駐愛丁堡辦事處 (駐英國台北代表處愛丁堡辦事處) 1 Melville Street, Edinburgh EH3 7PE, United Kingdom</address>
+        <description><![CDATA[地區: 歐洲地區<br>國家名稱: 大不列顛暨北愛爾蘭聯合王國<br>人數: 4<br>館址(外文): 1 Melville Street, Edinburgh EH3 7PE, United Kingdom<br>主管: 連建辰 <br>職稱: 處長<br>主管英文名稱: Jason Chien-chen Lien <br>EMAIL: edinburgh@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>歐洲地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>大不列顛暨北愛爾蘭聯合王國</value>
+          </Data>
+          <Data name="人數">
+            <value>4.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>1 Melville Street, Edinburgh EH3 7PE, United Kingdom</value>
+          </Data>
+          <Data name="主管">
+            <value>連建辰 </value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Jason Chien-chen Lien </value>
+          </Data>
+          <Data name="EMAIL">
+            <value>edinburgh@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐溫哥華辦事處 (駐溫哥華台北經濟文化辦事處)</name>
+        <address>駐溫哥華辦事處 (駐溫哥華台北經濟文化辦事處) Suite 2200, 650 West Georgia Street, Vancouver, BC V6B 4N7 Canada</address>
+        <description><![CDATA[地區: 北美地區<br>國家名稱: 加拿大<br>人數: 22<br>館址(外文): Suite 2200, 650 West Georgia Street, Vancouver, BC V6B 4N7 Canada<br>主管: 陳剛毅<br>職稱: 處長<br>主管英文名稱: Andy Kang-i Chen<br>EMAIL: yvr@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>北美地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>加拿大</value>
+          </Data>
+          <Data name="人數">
+            <value>22.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Suite 2200, 650 West Georgia Street, Vancouver, BC V6B 4N7 Canada</value>
+          </Data>
+          <Data name="主管">
+            <value>陳剛毅</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Andy Kang-i Chen</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>yvr@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐多倫多辦事處 (駐多倫多台北經濟文化辦事處)</name>
+        <address>駐多倫多辦事處 (駐多倫多台北經濟文化辦事處) 151 Yonge Street, Suite 501, Toronto, Ontario,M5C 2W7, Canada</address>
+        <description><![CDATA[地區: 北美地區<br>國家名稱: 加拿大<br>人數: 17<br>館址(外文): 151 Yonge Street, Suite 501, Toronto, Ontario,M5C 2W7, Canada<br>主管: 徐詠梅<br>職稱: 處長<br>主管英文名稱: Catherine Y. M. Hsu<br>EMAIL: yyz@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>北美地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>加拿大</value>
+          </Data>
+          <Data name="人數">
+            <value>17.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>151 Yonge Street, Suite 501, Toronto, Ontario,M5C 2W7, Canada</value>
+          </Data>
+          <Data name="主管">
+            <value>徐詠梅</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Catherine Y. M. Hsu</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>yyz@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐亞特蘭大辦事處 (駐亞特蘭大台北經濟文化辦事處)</name>
+        <address>駐亞特蘭大辦事處 (駐亞特蘭大台北經濟文化辦事處) 1180 West Peachtree St., Suite 800, Atlanta, Georgia 30309, U.S.A</address>
+        <description><![CDATA[地區: 北美地區<br>國家名稱: 美利堅合眾國<br>人數: 7<br>館址(外文): 1180 West Peachtree St., Suite 800, Atlanta, Georgia 30309, U.S.A<br>主管: 劉經巖<br>職稱: 處長<br>主管英文名稱: Vincent Jing-Yen Liu<br>EMAIL: atl@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>北美地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>美利堅合眾國</value>
+          </Data>
+          <Data name="人數">
+            <value>7.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>1180 West Peachtree St., Suite 800, Atlanta, Georgia 30309, U.S.A</value>
+          </Data>
+          <Data name="主管">
+            <value>劉經巖</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Vincent Jing-Yen Liu</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>atl@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐波士頓辦事處 (駐波士頓台北經濟文化辦事處)</name>
+        <address>駐波士頓辦事處 (駐波士頓台北經濟文化辦事處) 99 Summer Street, Suite 801 Boston, MA 02110 U.S.A.</address>
+        <description><![CDATA[地區: 北美地區<br>國家名稱: 美利堅合眾國<br>人數: 17<br>館址(外文): 99 Summer Street, Suite 801 Boston, MA 02110 U.S.A.<br>主管: 徐佑典<br>職稱: 處長<br>主管英文名稱: Douglas Hsu<br>EMAIL: boston@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>北美地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>美利堅合眾國</value>
+          </Data>
+          <Data name="人數">
+            <value>17.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>99 Summer Street, Suite 801 Boston, MA 02110 U.S.A.</value>
+          </Data>
+          <Data name="主管">
+            <value>徐佑典</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Douglas Hsu</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>boston@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐芝加哥辦事處 (駐芝加哥台北經濟文化辦事處)</name>
+        <address>駐芝加哥辦事處 (駐芝加哥台北經濟文化辦事處) 55 West Wacker Drive, Suite 1200, Chicago, IL 60601</address>
+        <description><![CDATA[地區: 北美地區<br>國家名稱: 美利堅合眾國<br>人數: 29<br>館址(外文): 55 West Wacker Drive, Suite 1200, Chicago, IL 60601<br>主管: 黃鈞耀<br>職稱: 處長<br>主管英文名稱: Eric Huang<br>EMAIL: chi@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>北美地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>美利堅合眾國</value>
+          </Data>
+          <Data name="人數">
+            <value>29.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>55 West Wacker Drive, Suite 1200, Chicago, IL 60601</value>
+          </Data>
+          <Data name="主管">
+            <value>黃鈞耀</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Eric Huang</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>chi@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐檀香山辦事處 (駐檀香山台北經濟文化辦事處)</name>
+        <address>駐檀香山辦事處 (駐檀香山台北經濟文化辦事處) 2746 Pali Highway Honolulu, Hawaii 96817 U.S. A.</address>
+        <description><![CDATA[地區: 北美地區<br>國家名稱: 美利堅合眾國<br>人數: 11<br>館址(外文): 2746 Pali Highway Honolulu, Hawaii 96817 U.S. A.<br>主管: 曾永光<br>職稱: 處長<br>主管英文名稱: Michael Y. K. Tseng<br>EMAIL: hnl@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>北美地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>美利堅合眾國</value>
+          </Data>
+          <Data name="人數">
+            <value>11.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>2746 Pali Highway Honolulu, Hawaii 96817 U.S. A.</value>
+          </Data>
+          <Data name="主管">
+            <value>曾永光</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Michael Y. K. Tseng</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>hnl@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐休士頓辦事處 (駐休士頓台北經濟文化辦事處)</name>
+        <address>駐休士頓辦事處 (駐休士頓台北經濟文化辦事處) 11 Greenway Plaza, Suite 2006, Houston, TX 77046</address>
+        <description><![CDATA[地區: 北美地區<br>國家名稱: 美利堅合眾國<br>人數: 32<br>館址(外文): 11 Greenway Plaza, Suite 2006, Houston, TX 77046<br>主管: 陳家彥<br>職稱: 處長<br>主管英文名稱: Peter C. Y. Chen<br>EMAIL: hou@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>北美地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>美利堅合眾國</value>
+          </Data>
+          <Data name="人數">
+            <value>32.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>11 Greenway Plaza, Suite 2006, Houston, TX 77046</value>
+          </Data>
+          <Data name="主管">
+            <value>陳家彥</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Peter C. Y. Chen</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>hou@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐洛杉磯辦事處 (駐洛杉磯台北經濟文化辦事處)</name>
+        <address>駐洛杉磯辦事處 (駐洛杉磯台北經濟文化辦事處) 3731 Wilshire Boulevard, Suite 700, Los Angeles, CA 90010, U.S.A.</address>
+        <description><![CDATA[地區: 北美地區<br>國家名稱: 美利堅合眾國<br>人數: 38<br>館址(外文): 3731 Wilshire Boulevard, Suite 700, Los Angeles, CA 90010, U.S.A.<br>主管: 朱文祥<br>職稱: 處長<br>主管英文名稱: Abraham Wen-Shang Chu<br>EMAIL: tecola@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>北美地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>美利堅合眾國</value>
+          </Data>
+          <Data name="人數">
+            <value>38.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>3731 Wilshire Boulevard, Suite 700, Los Angeles, CA 90010, U.S.A.</value>
+          </Data>
+          <Data name="主管">
+            <value>朱文祥</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Abraham Wen-Shang Chu</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>tecola@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐邁阿密辦事處 (駐邁阿密台北經濟文化辦事處)</name>
+        <address>駐邁阿密辦事處 (駐邁阿密台北經濟文化辦事處) 2333 Ponce de Leon Blvd. Suite 610, Coral Gables, FL 33134</address>
+        <description><![CDATA[地區: 北美地區<br>國家名稱: 美利堅合眾國<br>人數: 11<br>館址(外文): 2333 Ponce de Leon Blvd. Suite 610, Coral Gables, FL 33134<br>主管: 錢冠州<br>職稱: 處長<br>主管英文名稱: David Kuan-Chou Chien<br>EMAIL: tecomia@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>北美地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>美利堅合眾國</value>
+          </Data>
+          <Data name="人數">
+            <value>11.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>2333 Ponce de Leon Blvd. Suite 610, Coral Gables, FL 33134</value>
+          </Data>
+          <Data name="主管">
+            <value>錢冠州</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>David Kuan-Chou Chien</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>tecomia@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐紐約辦事處 (駐紐約台北經濟文化辦事處)</name>
+        <address>駐紐約辦事處 (駐紐約台北經濟文化辦事處) 1 E. 42nd Street, New York , NY 10017 U.S.A.</address>
+        <description><![CDATA[地區: 北美地區<br>國家名稱: 美利堅合眾國<br>人數: 48<br>館址(外文): 1 E. 42nd Street, New York , NY 10017 U.S.A.<br>主管: 徐儷文<br>職稱: 處長<br>主管英文名稱: Lily L. W. Hsu<br>EMAIL: tecony.press@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>北美地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>美利堅合眾國</value>
+          </Data>
+          <Data name="人數">
+            <value>48.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>1 E. 42nd Street, New York , NY 10017 U.S.A.</value>
+          </Data>
+          <Data name="主管">
+            <value>徐儷文</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Lily L. W. Hsu</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>tecony.press@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐舊金山辦事處 (駐舊金山台北經濟文化辦事處)</name>
+        <address>駐舊金山辦事處 (駐舊金山台北經濟文化辦事處) 555 Montgomery Street, Suite 501, San Francisco, CA 94111</address>
+        <description><![CDATA[地區: 北美地區<br>國家名稱: 美利堅合眾國<br>人數: 49<br>館址(外文): 555 Montgomery Street, Suite 501, San Francisco, CA 94111<br>主管: 馬鍾麟<br>職稱: 處長<br>主管英文名稱: Joseph Chung-lin Ma<br>EMAIL: sfo@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>北美地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>美利堅合眾國</value>
+          </Data>
+          <Data name="人數">
+            <value>49.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>555 Montgomery Street, Suite 501, San Francisco, CA 94111</value>
+          </Data>
+          <Data name="主管">
+            <value>馬鍾麟</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Joseph Chung-lin Ma</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>sfo@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐西雅圖辦事處 (駐西雅圖台北經濟文化辦事處)</name>
+        <address>駐西雅圖辦事處 (駐西雅圖台北經濟文化辦事處) One Union Square, 600 University St., Suite 2020, Seattle, WA 98101, U.S.A.</address>
+        <description><![CDATA[地區: 北美地區<br>國家名稱: 美利堅合眾國<br>人數: 12<br>館址(外文): One Union Square, 600 University St., Suite 2020, Seattle, WA 98101, U.S.A.<br>主管: 范國樞<br>職稱: 處長<br>主管英文名稱: Alex K.S. Fan<br>EMAIL: infoseattle@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>北美地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>美利堅合眾國</value>
+          </Data>
+          <Data name="人數">
+            <value>12.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>One Union Square, 600 University St., Suite 2020, Seattle, WA 98101, U.S.A.</value>
+          </Data>
+          <Data name="主管">
+            <value>范國樞</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Alex K.S. Fan</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>infoseattle@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐丹佛辦事處 (駐丹佛台北經濟文化辦事處)</name>
+        <address>駐丹佛辦事處 (駐丹佛台北經濟文化辦事處) 1600 Broadway, Suite1740, Denver, CO 80202</address>
+        <description><![CDATA[地區: 北美地區<br>國家名稱: 美利堅合眾國<br>人數: 7<br>館址(外文): 1600 Broadway, Suite1740, Denver, CO 80202<br>主管: 張詩瑞<br>職稱: 處長<br>主管英文名稱: Jerry Chang<br>EMAIL: den@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>北美地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>美利堅合眾國</value>
+          </Data>
+          <Data name="人數">
+            <value>7.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>1600 Broadway, Suite1740, Denver, CO 80202</value>
+          </Data>
+          <Data name="主管">
+            <value>張詩瑞</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Jerry Chang</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>den@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐聖保羅辦事處 (駐聖保羅台北經濟文化辦事處)</name>
+        <address>駐聖保羅辦事處 (駐聖保羅台北經濟文化辦事處) Condominium building Santos Dumont,Alameda Santos, 905 - Cerqueira César, São Paulo - SP, 01419-000,Brasil</address>
+        <description><![CDATA[地區: 拉丁美洲及加勒比海地區<br>國家名稱: 巴西聯邦共和國<br>人數: 10<br>館址(外文): Condominium building Santos Dumont,Alameda Santos, 905 - Cerqueira César, São Paulo - SP, 01419-000,Brasil<br>主管: 張崇哲<br>職稱: 處長<br>主管英文名稱: Tsung-che Chang<br>EMAIL: sao.consular@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1739-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>拉丁美洲及加勒比海地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>巴西聯邦共和國</value>
+          </Data>
+          <Data name="人數">
+            <value>10.0</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Condominium building Santos Dumont,Alameda Santos, 905 - Cerqueira César, São Paulo - SP, 01419-000,Brasil</value>
+          </Data>
+          <Data name="主管">
+            <value>張崇哲</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="主管英文名稱">
+            <value>Tsung-che Chang</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>sao.consular@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>中華電信</name>
+      <Placemark>
+        <name>中華電信越南</name>
+        <address>Room 703, 7th Floor, 3D Viet Nam, Duy Tan St, Dich Vong Hau Ward, Cau Giay Dist, Ha Noi, Vietnam 100000</address>
+        <description>Room 703, 7th Floor, 3D Viet Nam, Duy Tan St, Dich Vong Hau Ward, Cau Giay Dist, Ha Noi, Vietnam 100000</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>中華電信越南胡志明辦公室</name>
+        <address>Room 3, Floor 5th , Crescent Plaza, 105 Ton Dat Tien Street, Tan Phu Ward, District 7, Hochiminh City,Vietnam</address>
+        <description>Room 3, Floor 5th , Crescent Plaza, 105 Ton Dat Tien Street, Tan Phu Ward, District 7, Hochiminh City,Vietnam</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>中華電信日本</name>
+        <address>105-0012 東京都 港区芝大門 2-1-17 朝川ビル5階</address>
+        <description>105-0012 東京都 港区芝大門 2-1-17 朝川ビル5階</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>中華電信中國上海</name>
+        <address>上海市长宁区延安西路1118号23樓2301室</address>
+        <description>上海市长宁区延安西路1118号23樓2301室</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>中華電信中國香港</name>
+        <address>香港九龍九龍灣宏光道1號億京中心A座7樓A室</address>
+        <description>香港九龍九龍灣宏光道1號億京中心A座7樓A室</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>中華電信美國</name>
+        <address>2107 North First Street, Ste. 580, San Jose, CA 95131, USA</address>
+        <description>2107 North First Street, Ste. 580, San Jose, CA 95131, USA</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>中華電信中國北京</name>
+        <address>北京市阜成門外大街二號萬通新世界A棟 1709室</address>
+        <description>北京市阜成門外大街二號萬通新世界A棟 1709室</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>中華電信緬甸仰光</name>
+        <address>Suite 216, 50th building A, 50th Street lower block, Botahtaung Township Yangon, Myanmar</address>
+        <description>Suite 216, 50th building A, 50th Street lower block, Botahtaung Township Yangon, Myanmar</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>中華電信新加坡</name>
+        <address>No. 331 North Bridge Road, #03-05 Odeon Towers, Singapore 188720</address>
+        <description>No. 331 North Bridge Road, #03-05 Odeon Towers, Singapore 188720</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>中華電信泰國</name>
+        <address>65/131 16th Floor Chamnan Phenjati Business Centre , Rama 9 Rd ., Huay Kwang District , Bangkok 10320 Thailand</address>
+        <description>65/131 16th Floor Chamnan Phenjati Business Centre , Rama 9 Rd ., Huay Kwang District , Bangkok 10320 Thailand</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>中華電信美東</name>
+        <address>49th St, New York, NY,USA</address>
+        <description>49th St, New York, NY,USA</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+      </Placemark>
+      <Placemark>
+        <name>中華電信印尼雅加達</name>
+        <address>Plaza Marein Lt. 17E, Jl. Jend. Sudirman Kav 76 -78, Jakarta Selatan, Indonesia</address>
+        <description>Plaza Marein Lt. 17E, Jl. Jend. Sudirman Kav 76 -78, Jakarta Selatan, Indonesia</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>20190805-0818健診</name>
+      <Placemark>
+        <name>駐洛杉磯辦事處 (駐洛杉磯台北經濟文化辦事處)</name>
+        <address>3731 Wilshire Boulevard, Suite 700, Los Angeles, CA 90010, U.S.A.</address>
+        <description><![CDATA[地區: 北美<br>國家: 美國<br>駐外館處(外文): Taipei Economic and Cultural Office in Los Angeles <br>地址: 3731 Wilshire Boulevard, Suite 700, Los Angeles, CA 90010, U.S.A.<br>主管: 朱文祥<br>電話: 1-213-389-1215]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>北美</value>
+          </Data>
+          <Data name="國家">
+            <value>美國</value>
+          </Data>
+          <Data name="駐外館處(外文)">
+            <value>Taipei Economic and Cultural Office in Los Angeles </value>
+          </Data>
+          <Data name="地址">
+            <value>3731 Wilshire Boulevard, Suite 700, Los Angeles, CA 90010, U.S.A.</value>
+          </Data>
+          <Data name="主管">
+            <value>朱文祥</value>
+          </Data>
+          <Data name="電話">
+            <value>1-213-389-1215</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐芝加哥辦事處 (駐芝加哥台北經濟文化辦事處)</name>
+        <address>55 West Wacker Drive, Suite 1200, Chicago, IL 60601</address>
+        <description><![CDATA[地區: 北美<br>國家: 美國<br>駐外館處(外文): Taipei Economic and Cultural Office in Chicago <br>地址: 55 West Wacker Drive, Suite 1200, Chicago, IL 60601<br>主管: 黃鈞耀<br>電話: 1-312-616-0100]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>北美</value>
+          </Data>
+          <Data name="國家">
+            <value>美國</value>
+          </Data>
+          <Data name="駐外館處(外文)">
+            <value>Taipei Economic and Cultural Office in Chicago </value>
+          </Data>
+          <Data name="地址">
+            <value>55 West Wacker Drive, Suite 1200, Chicago, IL 60601</value>
+          </Data>
+          <Data name="主管">
+            <value>黃鈞耀</value>
+          </Data>
+          <Data name="電話">
+            <value>1-312-616-0100</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐加拿大代表處 (駐加拿大台北經濟文化代表處)</name>
+        <address><![CDATA[45 O'CONNOR STREET, SUITE 1960, OTTAWA, ONTARIO K1P1A4]]></address>
+        <description><![CDATA[地區: 北美<br>國家: 加拿大<br>駐外館處(外文): Taipei Economic and Cultural Office in Canada <br>地址: 45 O'CONNOR STREET, SUITE 1960, OTTAWA, ONTARIO K1P1A4<br>主管: 陳文儀<br>電話: 1-613-231-5080]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>北美</value>
+          </Data>
+          <Data name="國家">
+            <value>加拿大</value>
+          </Data>
+          <Data name="駐外館處(外文)">
+            <value>Taipei Economic and Cultural Office in Canada </value>
+          </Data>
+          <Data name="地址">
+            <value><![CDATA[45 O'CONNOR STREET, SUITE 1960, OTTAWA, ONTARIO K1P1A4]]></value>
+          </Data>
+          <Data name="主管">
+            <value>陳文儀</value>
+          </Data>
+          <Data name="電話">
+            <value>1-613-231-5080</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐多倫多辦事處 (駐多倫多台北經濟文化辦事處)</name>
+        <address>151 Yonge Street, Suite 501, Toronto, Ontario,M5C 2W7, Canada</address>
+        <description><![CDATA[地區: 北美<br>國家: 加拿大<br>駐外館處(外文): Taipei Economic and Cultural Office, Toronto <br>地址: 151 Yonge Street, Suite 501, Toronto, Ontario,M5C 2W7, Canada<br>主管: 徐詠梅<br>電話: 1-416-369-9030]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>北美</value>
+          </Data>
+          <Data name="國家">
+            <value>加拿大</value>
+          </Data>
+          <Data name="駐外館處(外文)">
+            <value>Taipei Economic and Cultural Office, Toronto </value>
+          </Data>
+          <Data name="地址">
+            <value>151 Yonge Street, Suite 501, Toronto, Ontario,M5C 2W7, Canada</value>
+          </Data>
+          <Data name="主管">
+            <value>徐詠梅</value>
+          </Data>
+          <Data name="電話">
+            <value>1-416-369-9030</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>20191012-1024技協</name>
+      <Placemark>
+        <name>駐邁阿密辦事處 (駐邁阿密台北經濟文化辦事處)</name>
+        <address>2333 Ponce de Leon Blvd. Suite 610, Coral Gables, FL 33134</address>
+        <description><![CDATA[地區: 北美地區<br>國家名稱: 美利堅合眾國<br>館處外文名稱: Taipei Economic and Cultural Office in Miami<br>館址(外文): 2333 Ponce de Leon Blvd. Suite 610, Coral Gables, FL 33134<br>主管(中文): 錢冠州<br>主管(英文): David Kuan-Chou Chien<br>職稱: 處長<br>EMAIL: tecomia@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>北美地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>美利堅合眾國</value>
+          </Data>
+          <Data name="館處外文名稱">
+            <value>Taipei Economic and Cultural Office in Miami</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>2333 Ponce de Leon Blvd. Suite 610, Coral Gables, FL 33134</value>
+          </Data>
+          <Data name="主管(中文)">
+            <value>錢冠州</value>
+          </Data>
+          <Data name="主管(英文)">
+            <value>David Kuan-Chou Chien</value>
+          </Data>
+          <Data name="職稱">
+            <value>處長</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>tecomia@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐聖克里斯多福及尼維斯大使館</name>
+        <address><![CDATA[Taylor's Range, Basseterre St. Kitts, West Indies]]></address>
+        <description><![CDATA[地區: 拉丁美洲及加勒比海地區<br>國家名稱: 聖克里斯多福及尼維斯聯邦<br>館處外文名稱: Embassy of the Republic of China (Taiwan) in St. Christopher and Nevis<br>館址(外文): Taylor's Range, Basseterre St. Kitts, West Indies<br>主管(中文): 李志強<br>主管(英文): Tom Chih-chiang LEE<br>職稱: 大使<br>EMAIL: kna@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>拉丁美洲及加勒比海地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>聖克里斯多福及尼維斯聯邦</value>
+          </Data>
+          <Data name="館處外文名稱">
+            <value>Embassy of the Republic of China (Taiwan) in St. Christopher and Nevis</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value><![CDATA[Taylor's Range, Basseterre St. Kitts, West Indies]]></value>
+          </Data>
+          <Data name="主管(中文)">
+            <value>李志強</value>
+          </Data>
+          <Data name="主管(英文)">
+            <value>Tom Chih-chiang LEE</value>
+          </Data>
+          <Data name="職稱">
+            <value>大使</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>kna@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐聖露西亞大使館</name>
+        <address>Reduit Beach Avenue, Rodney Bay, Gros Islet, St. Lucia</address>
+        <description><![CDATA[地區: 拉丁美洲及加勒比海地區<br>國家名稱: 聖露西亞<br>館處外文名稱: Embassy of the Republic of China (Taiwan) in St. Lucia<br>館址(外文): Reduit Beach Avenue, Rodney Bay, Gros Islet, St. Lucia<br>主管(中文): 沈正宗<br>主管(英文): Douglas C. T. Shen<br>職稱: 大使<br>EMAIL: lca@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>拉丁美洲及加勒比海地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>聖露西亞</value>
+          </Data>
+          <Data name="館處外文名稱">
+            <value>Embassy of the Republic of China (Taiwan) in St. Lucia</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value>Reduit Beach Avenue, Rodney Bay, Gros Islet, St. Lucia</value>
+          </Data>
+          <Data name="主管(中文)">
+            <value>沈正宗</value>
+          </Data>
+          <Data name="主管(英文)">
+            <value>Douglas C. T. Shen</value>
+          </Data>
+          <Data name="職稱">
+            <value>大使</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>lca@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駐聖文森國大使館</name>
+        <address><![CDATA[Murray's Road, Kingstown, St. Vincent and the Grenadines, West Indies]]></address>
+        <description><![CDATA[地區: 拉丁美洲及加勒比海地區<br>國家名稱: 聖文森及格瑞那丁<br>館處外文名稱: Embassy of the Republic of China (Taiwan) in St. Vincent and the Grenadines<br>館址(外文): Murray's Road, Kingstown, St. Vincent and the Grenadines, West Indies<br>主管(中文): 何震寰<br>主管(英文): Calvin C.H. Ho<br>職稱: 大使<br>EMAIL: vct@mofa.gov.tw]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="地區">
+            <value>拉丁美洲及加勒比海地區</value>
+          </Data>
+          <Data name="國家名稱">
+            <value>聖文森及格瑞那丁</value>
+          </Data>
+          <Data name="館處外文名稱">
+            <value>Embassy of the Republic of China (Taiwan) in St. Vincent and the Grenadines</value>
+          </Data>
+          <Data name="館址(外文)">
+            <value><![CDATA[Murray's Road, Kingstown, St. Vincent and the Grenadines, West Indies]]></value>
+          </Data>
+          <Data name="主管(中文)">
+            <value>何震寰</value>
+          </Data>
+          <Data name="主管(英文)">
+            <value>Calvin C.H. Ho</value>
+          </Data>
+          <Data name="職稱">
+            <value>大使</value>
+          </Data>
+          <Data name="EMAIL">
+            <value>vct@mofa.gov.tw</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
